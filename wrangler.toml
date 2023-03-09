@@ -1,0 +1,4 @@
+name = "mmri_server"
+compatibility_date = "2023-03-09"
+workers_dev = false
+route = "api.marketrisk.info/api*"
