@@ -1,7 +1,29 @@
 const _posts = [
  {
+   "x": 257,
+   "date": "2023-03-09",
+   "dxy": 104.78,
+   "tenyear": 0.04,
+   "mmri": 251.97,
+   "DXYOpen": 105.13,
+   "DXYHigh": 105.35,
+   "DXYLow": 104.04,
+   "DXYClose": 104.58,
+   "TENOpen": 0.04,
+   "TENHigh": 0.04,
+   "TENLow": 0.04,
+   "TENClose": 0.04,
+   "MMRIOpen": 255.38,
+   "MMRIHigh": 255.92,
+   "MMRILow": 255.92,
+   "MMRIClose": 240.66
+ },
+ {
    "x": 256,
    "date": "2023-03-08",
+   "dxy": 105.65,
+   "tenyear": 0.04,
+   "mmri": 262.49,
    "DXYOpen": 105.67,
    "DXYHigh": 105.88,
    "DXYLow": 105.37,
@@ -13,15 +35,14 @@ const _posts = [
    "MMRIOpen": 260.57,
    "MMRIHigh": 263.71,
    "MMRILow": 263.71,
-   "MMRIClose": 261.98,
-   "y": 262.49,
-   "dxy": 105.65,
-   "tenyear": 0.04,
-   "mmri": 262.49
+   "MMRIClose": 261.98
  },
  {
    "x": 255,
    "date": "2023-03-07",
+   "dxy": 104.92,
+   "tenyear": 0.04,
+   "mmri": 260.63,
    "DXYOpen": 104.3,
    "DXYHigh": 105.65,
    "DXYLow": 104.12,
@@ -33,15 +54,14 @@ const _posts = [
    "MMRIOpen": 256.86,
    "MMRIHigh": 262.62,
    "MMRILow": 262.62,
-   "MMRIClose": 260.44,
-   "y": 260.63,
-   "dxy": 104.92,
-   "tenyear": 0.04,
-   "mmri": 260.63
+   "MMRIClose": 260.44
  },
  {
    "x": 254,
    "date": "2023-03-06",
+   "dxy": 104.43,
+   "tenyear": 0.04,
+   "mmri": 258.15,
    "DXYOpen": 104.53,
    "DXYHigh": 104.69,
    "DXYLow": 104.16,
@@ -53,15 +73,14 @@ const _posts = [
    "MMRIOpen": 257.1,
    "MMRIHigh": 259.25,
    "MMRILow": 259.25,
-   "MMRIClose": 256.99,
-   "y": 258.15,
-   "dxy": 104.43,
-   "tenyear": 0.04,
-   "mmri": 258.15
+   "MMRIClose": 256.99
  },
  {
    "x": 253,
    "date": "2023-03-03",
+   "dxy": 104.74,
+   "tenyear": 0.04,
+   "mmri": 263.24,
    "DXYOpen": 104.94,
    "DXYHigh": 105,
    "DXYLow": 104.49,
@@ -73,15 +92,14 @@ const _posts = [
    "MMRIOpen": 264.76,
    "MMRIHigh": 265.57,
    "MMRILow": 265.57,
-   "MMRIClose": 257.08,
-   "y": 263.24,
-   "dxy": 104.74,
-   "tenyear": 0.04,
-   "mmri": 263.24
+   "MMRIClose": 257.08
  },
  {
    "x": 252,
    "date": "2023-03-02",
+   "dxy": 104.75,
+   "tenyear": 0.04,
+   "mmri": 264.54,
    "DXYOpen": 104.39,
    "DXYHigh": 105.18,
    "DXYLow": 104.39,
@@ -93,15 +111,14 @@ const _posts = [
    "MMRIOpen": 259.03,
    "MMRIHigh": 267.07,
    "MMRILow": 267.07,
-   "MMRIClose": 264.99,
-   "y": 264.54,
-   "dxy": 104.75,
-   "tenyear": 0.04,
-   "mmri": 264.54
+   "MMRIClose": 264.99
  },
  {
    "x": 251,
    "date": "2023-03-01",
+   "dxy": 104.68,
+   "tenyear": 0.04,
+   "mmri": 259.72,
    "DXYOpen": 105.04,
    "DXYHigh": 105.09,
    "DXYLow": 104.09,
@@ -113,15 +130,14 @@ const _posts = [
    "MMRIOpen": 256.01,
    "MMRIHigh": 261.81,
    "MMRILow": 261.81,
-   "MMRIClose": 259.25,
-   "y": 259.72,
-   "dxy": 104.68,
-   "tenyear": 0.04,
-   "mmri": 259.72
+   "MMRIClose": 259.25
  },
  {
    "x": 250,
    "date": "2023-02-28",
+   "dxy": 104.73,
+   "tenyear": 0.04,
+   "mmri": 257.21,
    "DXYOpen": 104.63,
    "DXYHigh": 105,
    "DXYLow": 104.42,
@@ -133,15 +149,14 @@ const _posts = [
    "MMRIOpen": 254.62,
    "MMRIHigh": 259.3,
    "MMRILow": 259.3,
-   "MMRIClose": 255.6,
-   "y": 257.21,
-   "dxy": 104.73,
-   "tenyear": 0.04,
-   "mmri": 257.21
+   "MMRIClose": 255.6
  },
  {
    "x": 249,
    "date": "2023-02-27",
+   "dxy": 104.95,
+   "tenyear": 0.04,
+   "mmri": 258.5,
    "DXYOpen": 105.23,
    "DXYHigh": 105.36,
    "DXYLow": 104.55,
@@ -153,15 +168,14 @@ const _posts = [
    "MMRIOpen": 258.37,
    "MMRIHigh": 260.46,
    "MMRILow": 260.46,
-   "MMRIClose": 254.72,
-   "y": 258.5,
-   "dxy": 104.95,
-   "tenyear": 0.04,
-   "mmri": 258.5
+   "MMRIClose": 254.72
  },
  {
    "x": 248,
    "date": "2023-02-24",
+   "dxy": 104.88,
+   "tenyear": 0.04,
+   "mmri": 257.61,
    "DXYOpen": 104.56,
    "DXYHigh": 105.32,
    "DXYLow": 104.42,
@@ -173,15 +187,14 @@ const _posts = [
    "MMRIOpen": 252.18,
    "MMRIHigh": 259.96,
    "MMRILow": 259.96,
-   "MMRIClose": 258.32,
-   "y": 257.61,
-   "dxy": 104.88,
-   "tenyear": 0.04,
-   "mmri": 257.61
+   "MMRIClose": 258.32
  },
  {
    "x": 247,
    "date": "2023-02-23",
+   "dxy": 104.55,
+   "tenyear": 0.04,
+   "mmri": 256.14,
    "DXYOpen": 104.5,
    "DXYHigh": 104.78,
    "DXYLow": 104.31,
@@ -193,15 +206,14 @@ const _posts = [
    "MMRIOpen": 254.76,
    "MMRIHigh": 258.76,
    "MMRILow": 258.76,
-   "MMRIClose": 252.27,
-   "y": 256.14,
-   "dxy": 104.55,
-   "tenyear": 0.04,
-   "mmri": 256.14
+   "MMRIClose": 252.27
  },
  {
    "x": 246,
    "date": "2023-02-22",
+   "dxy": 104.33,
+   "tenyear": 0.04,
+   "mmri": 256.51,
    "DXYOpen": 104.13,
    "DXYHigh": 104.6,
    "DXYLow": 104.01,
@@ -213,15 +225,14 @@ const _posts = [
    "MMRIOpen": 255.86,
    "MMRIHigh": 257.6,
    "MMRILow": 257.6,
-   "MMRIClose": 254.98,
-   "y": 256.51,
-   "dxy": 104.33,
-   "tenyear": 0.04,
-   "mmri": 256.51
+   "MMRIClose": 254.98
  },
  {
    "x": 245,
    "date": "2023-02-21",
+   "dxy": 104.03,
+   "tenyear": 0.04,
+   "mmri": 253.95,
    "DXYOpen": 103.91,
    "DXYHigh": 104.26,
    "DXYLow": 103.77,
@@ -233,15 +244,14 @@ const _posts = [
    "MMRIOpen": 246.67,
    "MMRIHigh": 256.57,
    "MMRILow": 256.57,
-   "MMRIClose": 255.99,
-   "y": 253.95,
-   "dxy": 104.03,
-   "tenyear": 0.04,
-   "mmri": 253.95
+   "MMRIClose": 255.99
  },
  {
    "x": 244,
    "date": "2023-02-20",
+   "dxy": 103.91,
+   "tenyear": 0.04,
+   "mmri": 246.87,
    "DXYOpen": 103.91,
    "DXYHigh": 104.09,
    "DXYLow": 103.76,
@@ -253,15 +263,14 @@ const _posts = [
    "MMRIOpen": 246.67,
    "MMRIHigh": 247.1,
    "MMRILow": 247.1,
-   "MMRIClose": 246.6,
-   "y": 246.87,
-   "dxy": 103.91,
-   "tenyear": 0.04,
-   "mmri": 246.87
+   "MMRIClose": 246.6
  },
  {
    "x": 243,
    "date": "2023-02-17",
+   "dxy": 104.14,
+   "tenyear": 0.04,
+   "mmri": 251.62,
    "DXYOpen": 104.2,
    "DXYHigh": 104.67,
    "DXYLow": 103.84,
@@ -273,15 +282,14 @@ const _posts = [
    "MMRIOpen": 249.95,
    "MMRIHigh": 254.98,
    "MMRILow": 254.98,
-   "MMRIClose": 246.55,
-   "y": 251.62,
-   "dxy": 104.14,
-   "tenyear": 0.04,
-   "mmri": 251.62
+   "MMRIClose": 246.55
  },
  {
    "x": 242,
    "date": "2023-02-16",
+   "dxy": 103.88,
+   "tenyear": 0.04,
+   "mmri": 248.87,
    "DXYOpen": 103.88,
    "DXYHigh": 104.23,
    "DXYLow": 103.53,
@@ -293,15 +301,14 @@ const _posts = [
    "MMRIOpen": 245.63,
    "MMRIHigh": 250.35,
    "MMRILow": 250.35,
-   "MMRIClose": 249.13,
-   "y": 248.87,
-   "dxy": 103.88,
-   "tenyear": 0.04,
-   "mmri": 248.87
+   "MMRIClose": 249.13
  },
  {
    "x": 241,
    "date": "2023-02-15",
+   "dxy": 103.6,
+   "tenyear": 0.04,
+   "mmri": 245.15,
    "DXYOpen": 103.21,
    "DXYHigh": 104.11,
    "DXYLow": 103.16,
@@ -313,15 +320,14 @@ const _posts = [
    "MMRIOpen": 240.59,
    "MMRIHigh": 247.15,
    "MMRILow": 247.15,
-   "MMRIClose": 245.73,
-   "y": 245.15,
-   "dxy": 103.6,
-   "tenyear": 0.04,
-   "mmri": 245.15
+   "MMRIClose": 245.73
  },
  {
    "x": 240,
    "date": "2023-02-14",
+   "dxy": 103.14,
+   "tenyear": 0.04,
+   "mmri": 241.48,
    "DXYOpen": 103.22,
    "DXYHigh": 103.52,
    "DXYLow": 102.59,
@@ -333,15 +339,14 @@ const _posts = [
    "MMRIOpen": 237.53,
    "MMRIHigh": 243.88,
    "MMRILow": 243.88,
-   "MMRIClose": 240.63,
-   "y": 241.48,
-   "dxy": 103.14,
-   "tenyear": 0.04,
-   "mmri": 241.48
+   "MMRIClose": 240.63
  },
  {
    "x": 239,
    "date": "2023-02-13",
+   "dxy": 103.5,
+   "tenyear": 0.04,
+   "mmri": 240.61,
    "DXYOpen": 103.58,
    "DXYHigh": 103.84,
    "DXYLow": 103.24,
@@ -353,15 +358,14 @@ const _posts = [
    "MMRIOpen": 240.49,
    "MMRIHigh": 242.06,
    "MMRILow": 242.06,
-   "MMRIClose": 237.83,
-   "y": 240.61,
-   "dxy": 103.5,
-   "tenyear": 0.04,
-   "mmri": 240.61
+   "MMRIClose": 237.83
  },
  {
    "x": 238,
    "date": "2023-02-10",
+   "dxy": 103.37,
+   "tenyear": 0.04,
+   "mmri": 239.5,
    "DXYOpen": 103.26,
    "DXYHigh": 103.68,
    "DXYLow": 102.9,
@@ -373,15 +377,14 @@ const _posts = [
    "MMRIOpen": 234.93,
    "MMRIHigh": 241.23,
    "MMRILow": 241.23,
-   "MMRIClose": 240.6,
-   "y": 239.5,
-   "dxy": 103.37,
-   "tenyear": 0.04,
-   "mmri": 239.5
+   "MMRIClose": 240.6
  },
  {
    "x": 237,
    "date": "2023-02-09",
+   "dxy": 103.21,
+   "tenyear": 0.04,
+   "mmri": 235.43,
    "DXYOpen": 103.43,
    "DXYHigh": 103.55,
    "DXYLow": 102.64,
@@ -393,15 +396,14 @@ const _posts = [
    "MMRIOpen": 232.62,
    "MMRIHigh": 237.14,
    "MMRILow": 237.14,
-   "MMRIClose": 234.84,
-   "y": 235.43,
-   "dxy": 103.21,
-   "tenyear": 0.04,
-   "mmri": 235.43
+   "MMRIClose": 234.84
  },
  {
    "x": 236,
    "date": "2023-02-08",
+   "dxy": 103.3,
+   "tenyear": 0.04,
+   "mmri": 235.74,
    "DXYOpen": 103.27,
    "DXYHigh": 103.52,
    "DXYLow": 103,
@@ -413,15 +415,14 @@ const _posts = [
    "MMRIOpen": 235.85,
    "MMRIHigh": 237.26,
    "MMRILow": 237.26,
-   "MMRIClose": 232.58,
-   "y": 235.74,
-   "dxy": 103.3,
-   "tenyear": 0.04,
-   "mmri": 235.74
+   "MMRIClose": 232.58
  },
  {
    "x": 235,
    "date": "2023-02-07",
+   "dxy": 103.48,
+   "tenyear": 0.04,
+   "mmri": 236.76,
    "DXYOpen": 103.54,
    "DXYHigh": 103.96,
    "DXYLow": 103,
@@ -433,15 +434,14 @@ const _posts = [
    "MMRIOpen": 234.41,
    "MMRIHigh": 238.2,
    "MMRILow": 238.2,
-   "MMRIClose": 236.22,
-   "y": 236.76,
-   "dxy": 103.48,
-   "tenyear": 0.04,
-   "mmri": 236.76
+   "MMRIClose": 236.22
  },
  {
    "x": 234,
    "date": "2023-02-06",
+   "dxy": 103.35,
+   "tenyear": 0.04,
+   "mmri": 232.76,
    "DXYOpen": 102.99,
    "DXYHigh": 103.77,
    "DXYLow": 103.01,
@@ -453,15 +453,14 @@ const _posts = [
    "MMRIOpen": 225.43,
    "MMRIHigh": 235.51,
    "MMRILow": 235.51,
-   "MMRIClose": 234.59,
-   "y": 232.76,
-   "dxy": 103.35,
-   "tenyear": 0.04,
-   "mmri": 232.76
+   "MMRIClose": 234.59
  },
  {
    "x": 233,
    "date": "2023-02-03",
+   "dxy": 102.33,
+   "tenyear": 0.03,
+   "mmri": 223.49,
    "DXYOpen": 101.83,
    "DXYHigh": 103.01,
    "DXYLow": 101.55,
@@ -473,15 +472,14 @@ const _posts = [
    "MMRIOpen": 214.92,
    "MMRIHigh": 226.88,
    "MMRILow": 226.88,
-   "MMRIClose": 225.27,
-   "y": 223.49,
-   "dxy": 102.33,
-   "tenyear": 0.03,
-   "mmri": 223.49
+   "MMRIClose": 225.27
  },
  {
    "x": 232,
    "date": "2023-02-02",
+   "dxy": 101.33,
+   "tenyear": 0.03,
+   "mmri": 215.71,
    "DXYOpen": 100.85,
    "DXYHigh": 101.91,
    "DXYLow": 100.82,
@@ -493,15 +491,14 @@ const _posts = [
    "MMRIOpen": 214.48,
    "MMRIHigh": 216.8,
    "MMRILow": 216.8,
-   "MMRIClose": 214.75,
-   "y": 215.71,
-   "dxy": 101.33,
-   "tenyear": 0.03,
-   "mmri": 215.71
+   "MMRIClose": 214.75
  },
  {
    "x": 231,
    "date": "2023-02-01",
+   "dxy": 101.64,
+   "tenyear": 0.03,
+   "mmri": 221.21,
    "DXYOpen": 102.1,
    "DXYHigh": 102.19,
    "DXYLow": 101.04,
@@ -513,15 +510,14 @@ const _posts = [
    "MMRIOpen": 222.72,
    "MMRIHigh": 223.42,
    "MMRILow": 223.42,
-   "MMRIClose": 215.27,
-   "y": 221.21,
-   "dxy": 101.64,
-   "tenyear": 0.03,
-   "mmri": 221.21
+   "MMRIClose": 215.27
  },
  {
    "x": 230,
    "date": "2023-01-31",
+   "dxy": 102.23,
+   "tenyear": 0.04,
+   "mmri": 225.07,
    "DXYOpen": 102.19,
    "DXYHigh": 102.61,
    "DXYLow": 102.01,
@@ -533,15 +529,14 @@ const _posts = [
    "MMRIOpen": 224.56,
    "MMRIHigh": 226.51,
    "MMRILow": 226.51,
-   "MMRIClose": 222.72,
-   "y": 225.07,
-   "dxy": 102.23,
-   "tenyear": 0.04,
-   "mmri": 225.07
+   "MMRIClose": 222.72
  },
  {
    "x": 229,
    "date": "2023-01-30",
+   "dxy": 102.04,
+   "tenyear": 0.04,
+   "mmri": 225.3,
    "DXYOpen": 101.92,
    "DXYHigh": 102.31,
    "DXYLow": 101.66,
@@ -553,15 +548,14 @@ const _posts = [
    "MMRIOpen": 222.32,
    "MMRIHigh": 227.05,
    "MMRILow": 227.05,
-   "MMRIClose": 224.76,
-   "y": 225.3,
-   "dxy": 102.04,
-   "tenyear": 0.04,
-   "mmri": 225.3
+   "MMRIClose": 224.76
  },
  {
    "x": 228,
    "date": "2023-01-27",
+   "dxy": 101.88,
+   "tenyear": 0.04,
+   "mmri": 223.99,
    "DXYOpen": 101.72,
    "DXYHigh": 102.19,
    "DXYLow": 101.68,
@@ -573,15 +567,14 @@ const _posts = [
    "MMRIOpen": 220.94,
    "MMRIHigh": 226.34,
    "MMRILow": 226.34,
-   "MMRIClose": 222.35,
-   "y": 223.99,
-   "dxy": 101.88,
-   "tenyear": 0.04,
-   "mmri": 223.99
+   "MMRIClose": 222.35
  },
  {
    "x": 227,
    "date": "2023-01-26",
+   "dxy": 101.78,
+   "tenyear": 0.03,
+   "mmri": 221.23,
    "DXYOpen": 101.58,
    "DXYHigh": 102.18,
    "DXYLow": 101.5,
@@ -593,15 +586,14 @@ const _posts = [
    "MMRIOpen": 217.55,
    "MMRIHigh": 223.08,
    "MMRILow": 223.08,
-   "MMRIClose": 221.2,
-   "y": 221.23,
-   "dxy": 101.78,
-   "tenyear": 0.03,
-   "mmri": 221.23
+   "MMRIClose": 221.2
  },
  {
    "x": 226,
    "date": "2023-01-25",
+   "dxy": 101.84,
+   "tenyear": 0.03,
+   "mmri": 219.65,
    "DXYOpen": 102.01,
    "DXYHigh": 102.12,
    "DXYLow": 101.58,
@@ -613,15 +605,14 @@ const _posts = [
    "MMRIOpen": 219.23,
    "MMRIHigh": 220.86,
    "MMRILow": 220.86,
-   "MMRIClose": 217.67,
-   "y": 219.65,
-   "dxy": 101.84,
-   "tenyear": 0.03,
-   "mmri": 219.65
+   "MMRIClose": 217.67
  },
  {
    "x": 225,
    "date": "2023-01-24",
+   "dxy": 102.02,
+   "tenyear": 0.03,
+   "mmri": 223.42,
    "DXYOpen": 101.99,
    "DXYHigh": 102.43,
    "DXYLow": 101.72,
@@ -633,15 +624,14 @@ const _posts = [
    "MMRIOpen": 223.05,
    "MMRIHigh": 225.79,
    "MMRILow": 225.79,
-   "MMRIClose": 219.03,
-   "y": 223.42,
-   "dxy": 102.02,
-   "tenyear": 0.03,
-   "mmri": 223.42
+   "MMRIClose": 219.03
  },
  {
    "x": 224,
    "date": "2023-01-23",
+   "dxy": 102,
+   "tenyear": 0.04,
+   "mmri": 223.53,
    "DXYOpen": 101.99,
    "DXYHigh": 102.28,
    "DXYLow": 101.59,
@@ -653,15 +643,14 @@ const _posts = [
    "MMRIOpen": 220.45,
    "MMRIHigh": 225.14,
    "MMRILow": 225.14,
-   "MMRIClose": 223.38,
-   "y": 223.53,
-   "dxy": 102,
-   "tenyear": 0.04,
-   "mmri": 223.53
+   "MMRIClose": 223.38
  },
  {
    "x": 223,
    "date": "2023-01-20",
+   "dxy": 102.15,
+   "tenyear": 0.03,
+   "mmri": 220.39,
    "DXYOpen": 102.08,
    "DXYHigh": 102.55,
    "DXYLow": 101.94,
@@ -673,15 +662,14 @@ const _posts = [
    "MMRIOpen": 215.57,
    "MMRIHigh": 222.74,
    "MMRILow": 222.74,
-   "MMRIClose": 220.49,
-   "y": 220.39,
-   "dxy": 102.15,
-   "tenyear": 0.03,
-   "mmri": 220.39
+   "MMRIClose": 220.49
  },
  {
    "x": 222,
    "date": "2023-01-19",
+   "dxy": 102.23,
+   "tenyear": 0.03,
+   "mmri": 216.57,
    "DXYOpen": 102.38,
    "DXYHigh": 102.48,
    "DXYLow": 101.99,
@@ -693,15 +681,14 @@ const _posts = [
    "MMRIOpen": 214.49,
    "MMRIHigh": 218.14,
    "MMRILow": 218.14,
-   "MMRIClose": 215.53,
-   "y": 216.57,
-   "dxy": 102.23,
-   "tenyear": 0.03,
-   "mmri": 216.57
+   "MMRIClose": 215.53
  },
  {
    "x": 221,
    "date": "2023-01-18",
+   "dxy": 102.32,
+   "tenyear": 0.03,
+   "mmri": 223.81,
    "DXYOpen": 102.47,
    "DXYHigh": 102.9,
    "DXYLow": 101.53,
@@ -713,15 +700,14 @@ const _posts = [
    "MMRIOpen": 225.88,
    "MMRIHigh": 227.47,
    "MMRILow": 227.47,
-   "MMRIClose": 214.45,
-   "y": 223.81,
-   "dxy": 102.32,
-   "tenyear": 0.03,
-   "mmri": 223.81
+   "MMRIClose": 214.45
  },
  {
    "x": 220,
    "date": "2023-01-17",
+   "dxy": 102.3,
+   "tenyear": 0.04,
+   "mmri": 226.17,
    "DXYOpen": 102.32,
    "DXYHigh": 102.56,
    "DXYLow": 101.94,
@@ -733,15 +719,14 @@ const _posts = [
    "MMRIOpen": 222.75,
    "MMRIHigh": 228.12,
    "MMRILow": 228.12,
-   "MMRIClose": 225.7,
-   "y": 226.17,
-   "dxy": 102.3,
-   "tenyear": 0.04,
-   "mmri": 226.17
+   "MMRIClose": 225.7
  },
  {
    "x": 219,
    "date": "2023-01-13",
+   "dxy": 102.26,
+   "tenyear": 0.03,
+   "mmri": 222.31,
    "DXYOpen": 102.21,
    "DXYHigh": 102.65,
    "DXYLow": 101.99,
@@ -753,15 +738,14 @@ const _posts = [
    "MMRIOpen": 218.77,
    "MMRIHigh": 223.98,
    "MMRILow": 223.98,
-   "MMRIClose": 222.49,
-   "y": 222.31,
-   "dxy": 102.26,
-   "tenyear": 0.03,
-   "mmri": 222.31
+   "MMRIClose": 222.49
  },
  {
    "x": 218,
    "date": "2023-01-12",
+   "dxy": 102.67,
+   "tenyear": 0.03,
+   "mmri": 226.12,
    "DXYOpen": 103.06,
    "DXYHigh": 103.29,
    "DXYLow": 102.08,
@@ -773,15 +757,14 @@ const _posts = [
    "MMRIOpen": 226.67,
    "MMRIHigh": 229.48,
    "MMRILow": 229.48,
-   "MMRIClose": 218.85,
-   "y": 226.12,
-   "dxy": 102.67,
-   "tenyear": 0.03,
-   "mmri": 226.12
+   "MMRIClose": 218.85
  },
  {
    "x": 217,
    "date": "2023-01-11",
+   "dxy": 103.25,
+   "tenyear": 0.04,
+   "mmri": 231.14,
    "DXYOpen": 103.22,
    "DXYHigh": 103.48,
    "DXYLow": 103.11,
@@ -793,15 +776,14 @@ const _posts = [
    "MMRIOpen": 232.15,
    "MMRIHigh": 232.73,
    "MMRILow": 232.73,
-   "MMRIClose": 226.95,
-   "y": 231.14,
-   "dxy": 103.25,
-   "tenyear": 0.04,
-   "mmri": 231.14
+   "MMRIClose": 226.95
  },
  {
    "x": 216,
    "date": "2023-01-10",
+   "dxy": 103.26,
+   "tenyear": 0.04,
+   "mmri": 231.67,
    "DXYOpen": 103.29,
    "DXYHigh": 103.49,
    "DXYLow": 103.03,
@@ -813,15 +795,14 @@ const _posts = [
    "MMRIOpen": 227.05,
    "MMRIHigh": 233.72,
    "MMRILow": 233.72,
-   "MMRIClose": 232.19,
-   "y": 231.67,
-   "dxy": 103.26,
-   "tenyear": 0.04,
-   "mmri": 231.67
+   "MMRIClose": 232.19
  },
  {
    "x": 215,
    "date": "2023-01-09",
+   "dxy": 103.45,
+   "tenyear": 0.04,
+   "mmri": 230.68,
    "DXYOpen": 103.91,
    "DXYHigh": 103.94,
    "DXYLow": 102.94,
@@ -833,15 +814,14 @@ const _posts = [
    "MMRIOpen": 229.96,
    "MMRIHigh": 233.19,
    "MMRILow": 233.19,
-   "MMRIClose": 226.41,
-   "y": 230.68,
-   "dxy": 103.45,
-   "tenyear": 0.04,
-   "mmri": 230.68
+   "MMRIClose": 226.41
  },
  {
    "x": 214,
    "date": "2023-01-06",
+   "dxy": 104.61,
+   "tenyear": 0.04,
+   "mmri": 241.12,
    "DXYOpen": 105.05,
    "DXYHigh": 105.63,
    "DXYLow": 103.87,
@@ -853,15 +833,14 @@ const _posts = [
    "MMRIOpen": 242.66,
    "MMRIHigh": 245.97,
    "MMRILow": 245.97,
-   "MMRIClose": 229.89,
-   "y": 241.12,
-   "dxy": 104.61,
-   "tenyear": 0.04,
-   "mmri": 241.12
+   "MMRIClose": 229.89
  },
  {
    "x": 213,
    "date": "2023-01-05",
+   "dxy": 104.59,
+   "tenyear": 0.04,
+   "mmri": 243.92,
    "DXYOpen": 104.07,
    "DXYHigh": 105.27,
    "DXYLow": 103.99,
@@ -873,15 +852,14 @@ const _posts = [
    "MMRIOpen": 238.33,
    "MMRIHigh": 247.35,
    "MMRILow": 247.35,
-   "MMRIClose": 242.64,
-   "y": 243.92,
-   "dxy": 104.59,
-   "tenyear": 0.04,
-   "mmri": 243.92
+   "MMRIClose": 242.64
  },
  {
    "x": 212,
    "date": "2023-01-04",
+   "dxy": 104.32,
+   "tenyear": 0.04,
+   "mmri": 242.79,
    "DXYOpen": 104.58,
    "DXYHigh": 104.6,
    "DXYLow": 103.83,
@@ -893,15 +871,14 @@ const _posts = [
    "MMRIOpen": 243.33,
    "MMRIHigh": 244.54,
    "MMRILow": 244.54,
-   "MMRIClose": 238.74,
-   "y": 242.79,
-   "dxy": 104.32,
-   "tenyear": 0.04,
-   "mmri": 242.79
+   "MMRIClose": 238.74
  },
  {
    "x": 211,
    "date": "2023-01-03",
+   "dxy": 104.13,
+   "tenyear": 0.04,
+   "mmri": 249.6,
    "DXYOpen": 103.66,
    "DXYHigh": 104.86,
    "DXYLow": 103.47,
@@ -913,15 +890,14 @@ const _posts = [
    "MMRIOpen": 249.81,
    "MMRIHigh": 252.71,
    "MMRILow": 252.71,
-   "MMRIClose": 243.19,
-   "y": 249.6,
-   "dxy": 104.13,
-   "tenyear": 0.04,
-   "mmri": 249.6
+   "MMRIClose": 243.19
  },
  {
    "x": 210,
    "date": "2022-12-30",
+   "dxy": 103.74,
+   "tenyear": 0.04,
+   "mmri": 250.44,
    "DXYOpen": 103.95,
    "DXYHigh": 104.1,
    "DXYLow": 103.39,
@@ -933,15 +909,14 @@ const _posts = [
    "MMRIOpen": 246.64,
    "MMRIHigh": 252.81,
    "MMRILow": 252.81,
-   "MMRIClose": 249.48,
-   "y": 250.44,
-   "dxy": 103.74,
-   "tenyear": 0.04,
-   "mmri": 250.44
+   "MMRIClose": 249.48
  },
  {
    "x": 209,
    "date": "2022-12-29",
+   "dxy": 104.11,
+   "tenyear": 0.04,
+   "mmri": 250.63,
    "DXYOpen": 104.37,
    "DXYHigh": 104.45,
    "DXYLow": 103.78,
@@ -953,15 +928,14 @@ const _posts = [
    "MMRIOpen": 251.78,
    "MMRIHigh": 252.17,
    "MMRILow": 252.17,
-   "MMRIClose": 246.38,
-   "y": 250.63,
-   "dxy": 104.11,
-   "tenyear": 0.04,
-   "mmri": 250.63
+   "MMRIClose": 246.38
  },
  {
    "x": 208,
    "date": "2022-12-28",
+   "dxy": 104.3,
+   "tenyear": 0.04,
+   "mmri": 251.57,
    "DXYOpen": 104.33,
    "DXYHigh": 104.56,
    "DXYLow": 103.85,
@@ -973,15 +947,14 @@ const _posts = [
    "MMRIOpen": 249.29,
    "MMRIHigh": 252.5,
    "MMRILow": 252.5,
-   "MMRIClose": 252,
-   "y": 251.57,
-   "dxy": 104.3,
-   "tenyear": 0.04,
-   "mmri": 251.57
+   "MMRIClose": 252
  },
  {
    "x": 207,
    "date": "2022-12-27",
+   "dxy": 104.15,
+   "tenyear": 0.04,
+   "mmri": 248.13,
    "DXYOpen": 104.12,
    "DXYHigh": 104.4,
    "DXYLow": 103.89,
@@ -993,15 +966,14 @@ const _posts = [
    "MMRIOpen": 242.45,
    "MMRIHigh": 250.56,
    "MMRILow": 250.56,
-   "MMRIClose": 248.93,
-   "y": 248.13,
-   "dxy": 104.15,
-   "tenyear": 0.04,
-   "mmri": 248.13
+   "MMRIClose": 248.93
  },
  {
    "x": 206,
    "date": "2022-12-23",
+   "dxy": 104.35,
+   "tenyear": 0.04,
+   "mmri": 242.13,
    "DXYOpen": 104.39,
    "DXYHigh": 104.54,
    "DXYLow": 104.12,
@@ -1013,15 +985,14 @@ const _posts = [
    "MMRIOpen": 238.74,
    "MMRIHigh": 243.43,
    "MMRILow": 243.43,
-   "MMRIClose": 242.94,
-   "y": 242.13,
-   "dxy": 104.35,
-   "tenyear": 0.04,
-   "mmri": 242.13
+   "MMRIClose": 242.94
  },
  {
    "x": 205,
    "date": "2022-12-22",
+   "dxy": 104.25,
+   "tenyear": 0.04,
+   "mmri": 239.02,
    "DXYOpen": 104.22,
    "DXYHigh": 104.6,
    "DXYLow": 103.75,
@@ -1033,15 +1004,14 @@ const _posts = [
    "MMRIOpen": 237.76,
    "MMRIHigh": 239.74,
    "MMRILow": 239.74,
-   "MMRIClose": 238.83,
-   "y": 239.02,
-   "dxy": 104.25,
-   "tenyear": 0.04,
-   "mmri": 239.02
+   "MMRIClose": 238.83
  },
  {
    "x": 204,
    "date": "2022-12-21",
+   "dxy": 104.09,
+   "tenyear": 0.04,
+   "mmri": 239.59,
    "DXYOpen": 103.95,
    "DXYHigh": 104.38,
    "DXYLow": 103.85,
@@ -1053,15 +1023,14 @@ const _posts = [
    "MMRIOpen": 238.25,
    "MMRIHigh": 241.24,
    "MMRILow": 241.24,
-   "MMRIClose": 237.63,
-   "y": 239.59,
-   "dxy": 104.09,
-   "tenyear": 0.04,
-   "mmri": 239.59
+   "MMRIClose": 237.63
  },
  {
    "x": 203,
    "date": "2022-12-20",
+   "dxy": 104.32,
+   "tenyear": 0.04,
+   "mmri": 238.56,
    "DXYOpen": 104.73,
    "DXYHigh": 104.79,
    "DXYLow": 103.78,
@@ -1073,15 +1042,14 @@ const _posts = [
    "MMRIOpen": 233.27,
    "MMRIHigh": 241.34,
    "MMRILow": 241.34,
-   "MMRIClose": 238.29,
-   "y": 238.56,
-   "dxy": 104.32,
-   "tenyear": 0.04,
-   "mmri": 238.56
+   "MMRIClose": 238.29
  },
  {
    "x": 202,
    "date": "2022-12-19",
+   "dxy": 104.66,
+   "tenyear": 0.04,
+   "mmri": 232.36,
    "DXYOpen": 104.84,
    "DXYHigh": 104.93,
    "DXYLow": 104.13,
@@ -1093,15 +1061,14 @@ const _posts = [
    "MMRIOpen": 227.2,
    "MMRIHigh": 234.5,
    "MMRILow": 234.5,
-   "MMRIClose": 233.25,
-   "y": 232.36,
-   "dxy": 104.66,
-   "tenyear": 0.04,
-   "mmri": 232.36
+   "MMRIClose": 233.25
  },
  {
    "x": 201,
    "date": "2022-12-16",
+   "dxy": 104.55,
+   "tenyear": 0.03,
+   "mmri": 228.2,
    "DXYOpen": 104.45,
    "DXYHigh": 104.84,
    "DXYLow": 104.21,
@@ -1113,15 +1080,14 @@ const _posts = [
    "MMRIOpen": 223.69,
    "MMRIHigh": 231.1,
    "MMRILow": 231.1,
-   "MMRIClose": 226.89,
-   "y": 228.2,
-   "dxy": 104.55,
-   "tenyear": 0.03,
-   "mmri": 228.2
+   "MMRIClose": 226.89
  },
  {
    "x": 200,
    "date": "2022-12-15",
+   "dxy": 104.16,
+   "tenyear": 0.03,
+   "mmri": 226.61,
    "DXYOpen": 103.67,
    "DXYHigh": 104.88,
    "DXYLow": 103.54,
@@ -1133,15 +1099,14 @@ const _posts = [
    "MMRIOpen": 224.02,
    "MMRIHigh": 229.24,
    "MMRILow": 229.24,
-   "MMRIClose": 223.93,
-   "y": 226.61,
-   "dxy": 104.16,
-   "tenyear": 0.03,
-   "mmri": 226.61
+   "MMRIClose": 223.93
  },
  {
    "x": 199,
    "date": "2022-12-14",
+   "dxy": 103.86,
+   "tenyear": 0.04,
+   "mmri": 227.91,
    "DXYOpen": 104.07,
    "DXYHigh": 104.16,
    "DXYLow": 103.45,
@@ -1153,15 +1118,14 @@ const _posts = [
    "MMRIOpen": 226.76,
    "MMRIHigh": 230.32,
    "MMRILow": 230.32,
-   "MMRIClose": 224.23,
-   "y": 227.91,
-   "dxy": 103.86,
-   "tenyear": 0.04,
-   "mmri": 227.91
+   "MMRIClose": 224.23
  },
  {
    "x": 198,
    "date": "2022-12-13",
+   "dxy": 104.42,
+   "tenyear": 0.04,
+   "mmri": 233.57,
    "DXYOpen": 104.99,
    "DXYHigh": 105.1,
    "DXYLow": 103.59,
@@ -1173,15 +1137,14 @@ const _posts = [
    "MMRIOpen": 235.74,
    "MMRIHigh": 235.99,
    "MMRILow": 235.99,
-   "MMRIClose": 226.56,
-   "y": 233.57,
-   "dxy": 104.42,
-   "tenyear": 0.04,
-   "mmri": 233.57
+   "MMRIClose": 226.56
  },
  {
    "x": 197,
    "date": "2022-12-12",
+   "dxy": 105,
+   "tenyear": 0.04,
+   "mmri": 235.98,
    "DXYOpen": 104.93,
    "DXYHigh": 105.25,
    "DXYLow": 104.67,
@@ -1193,15 +1156,14 @@ const _posts = [
    "MMRIOpen": 233.58,
    "MMRIHigh": 237.17,
    "MMRILow": 237.17,
-   "MMRIClose": 235.99,
-   "y": 235.98,
-   "dxy": 105,
-   "tenyear": 0.04,
-   "mmri": 235.98
+   "MMRIClose": 235.99
  },
  {
    "x": 196,
    "date": "2022-12-09",
+   "dxy": 104.82,
+   "tenyear": 0.04,
+   "mmri": 232.33,
    "DXYOpen": 104.86,
    "DXYHigh": 105.14,
    "DXYLow": 104.48,
@@ -1213,15 +1175,14 @@ const _posts = [
    "MMRIOpen": 227.11,
    "MMRIHigh": 234.44,
    "MMRILow": 234.44,
-   "MMRIClose": 233.32,
-   "y": 232.33,
-   "dxy": 104.82,
-   "tenyear": 0.04,
-   "mmri": 232.33
+   "MMRIClose": 233.32
  },
  {
    "x": 195,
    "date": "2022-12-08",
+   "dxy": 105.03,
+   "tenyear": 0.03,
+   "mmri": 227.44,
    "DXYOpen": 105.2,
    "DXYHigh": 105.43,
    "DXYLow": 104.72,
@@ -1233,15 +1194,14 @@ const _posts = [
    "MMRIOpen": 223.8,
    "MMRIHigh": 229.52,
    "MMRILow": 229.52,
-   "MMRIClose": 226.91,
-   "y": 227.44,
-   "dxy": 105.03,
-   "tenyear": 0.03,
-   "mmri": 227.44
+   "MMRIClose": 226.91
  },
  {
    "x": 194,
    "date": "2022-12-07",
+   "dxy": 105.36,
+   "tenyear": 0.03,
+   "mmri": 230.77,
    "DXYOpen": 105.63,
    "DXYHigh": 105.82,
    "DXYLow": 104.88,
@@ -1253,15 +1213,14 @@ const _posts = [
    "MMRIOpen": 231.8,
    "MMRIHigh": 233.86,
    "MMRILow": 233.86,
-   "MMRIClose": 223.58,
-   "y": 230.77,
-   "dxy": 105.36,
-   "tenyear": 0.03,
-   "mmri": 230.77
+   "MMRIClose": 223.58
  },
  {
    "x": 193,
    "date": "2022-12-06",
+   "dxy": 105.32,
+   "tenyear": 0.04,
+   "mmri": 234.75,
    "DXYOpen": 105.16,
    "DXYHigh": 105.63,
    "DXYLow": 104.89,
@@ -1273,15 +1232,14 @@ const _posts = [
    "MMRIOpen": 234.16,
    "MMRIHigh": 236.58,
    "MMRILow": 236.58,
-   "MMRIClose": 231.69,
-   "y": 234.75,
-   "dxy": 105.32,
-   "tenyear": 0.04,
-   "mmri": 234.75
+   "MMRIClose": 231.69
  },
  {
    "x": 192,
    "date": "2022-12-05",
+   "dxy": 104.83,
+   "tenyear": 0.04,
+   "mmri": 233.58,
    "DXYOpen": 104.51,
    "DXYHigh": 105.4,
    "DXYLow": 104.11,
@@ -1293,15 +1251,14 @@ const _posts = [
    "MMRIOpen": 226.81,
    "MMRIHigh": 236.53,
    "MMRILow": 236.53,
-   "MMRIClose": 234.45,
-   "y": 233.58,
-   "dxy": 104.83,
-   "tenyear": 0.04,
-   "mmri": 233.58
+   "MMRIClose": 234.45
  },
  {
    "x": 191,
    "date": "2022-12-02",
+   "dxy": 104.84,
+   "tenyear": 0.04,
+   "mmri": 232.94,
    "DXYOpen": 104.82,
    "DXYHigh": 105.59,
    "DXYLow": 104.38,
@@ -1313,15 +1270,14 @@ const _posts = [
    "MMRIOpen": 228.59,
    "MMRIHigh": 238.13,
    "MMRILow": 238.13,
-   "MMRIClose": 226.89,
-   "y": 232.94,
-   "dxy": 104.84,
-   "tenyear": 0.04,
-   "mmri": 232.94
+   "MMRIClose": 226.89
  },
  {
    "x": 190,
    "date": "2022-12-01",
+   "dxy": 105.25,
+   "tenyear": 0.04,
+   "mmri": 236.13,
    "DXYOpen": 105.7,
    "DXYHigh": 105.9,
    "DXYLow": 104.66,
@@ -1333,15 +1289,14 @@ const _posts = [
    "MMRIOpen": 236.74,
    "MMRIHigh": 239.69,
    "MMRILow": 239.69,
-   "MMRIClose": 228.39,
-   "y": 236.13,
-   "dxy": 105.25,
-   "tenyear": 0.04,
-   "mmri": 236.13
+   "MMRIClose": 228.39
  },
  {
    "x": 189,
    "date": "2022-11-30",
+   "dxy": 106.41,
+   "tenyear": 0.04,
+   "mmri": 247.93,
    "DXYOpen": 106.72,
    "DXYHigh": 107.2,
    "DXYLow": 105.78,
@@ -1353,15 +1308,14 @@ const _posts = [
    "MMRIOpen": 248.51,
    "MMRIHigh": 252.95,
    "MMRILow": 252.95,
-   "MMRIClose": 237.3,
-   "y": 247.93,
-   "dxy": 106.41,
-   "tenyear": 0.04,
-   "mmri": 247.93
+   "MMRIClose": 237.3
  },
  {
    "x": 188,
    "date": "2022-11-29",
+   "dxy": 106.58,
+   "tenyear": 0.04,
+   "mmri": 248,
    "DXYOpen": 106.57,
    "DXYHigh": 106.88,
    "DXYLow": 106.06,
@@ -1373,15 +1327,14 @@ const _posts = [
    "MMRIOpen": 243.92,
    "MMRIHigh": 249.67,
    "MMRILow": 249.67,
-   "MMRIClose": 248.74,
-   "y": 248,
-   "dxy": 106.58,
-   "tenyear": 0.04,
-   "mmri": 248
+   "MMRIClose": 248.74
  },
  {
    "x": 187,
    "date": "2022-11-28",
+   "dxy": 106.2,
+   "tenyear": 0.04,
+   "mmri": 245.11,
    "DXYOpen": 106.06,
    "DXYHigh": 106.75,
    "DXYLow": 105.32,
@@ -1393,15 +1346,14 @@ const _posts = [
    "MMRIOpen": 242.95,
    "MMRIHigh": 246.65,
    "MMRILow": 246.65,
-   "MMRIClose": 244.17,
-   "y": 245.11,
-   "dxy": 106.2,
-   "tenyear": 0.04,
-   "mmri": 245.11
+   "MMRIClose": 244.17
  },
  {
    "x": 186,
    "date": "2022-11-25",
+   "dxy": 106.01,
+   "tenyear": 0.04,
+   "mmri": 245.66,
    "DXYOpen": 105.96,
    "DXYHigh": 106.42,
    "DXYLow": 105.69,
@@ -1413,15 +1365,14 @@ const _posts = [
    "MMRIOpen": 243.51,
    "MMRIHigh": 248.2,
    "MMRILow": 248.2,
-   "MMRIClose": 242.72,
-   "y": 245.66,
-   "dxy": 106.01,
-   "tenyear": 0.04,
-   "mmri": 245.66
+   "MMRIClose": 242.72
  },
  {
    "x": 185,
    "date": "2022-11-23",
+   "dxy": 106.6,
+   "tenyear": 0.04,
+   "mmri": 250.23,
    "DXYOpen": 107.08,
    "DXYHigh": 107.22,
    "DXYLow": 106.03,
@@ -1433,15 +1384,14 @@ const _posts = [
    "MMRIOpen": 249.94,
    "MMRIHigh": 253.6,
    "MMRILow": 253.6,
-   "MMRIClose": 243.79,
-   "y": 250.23,
-   "dxy": 106.6,
-   "tenyear": 0.04,
-   "mmri": 250.23
+   "MMRIClose": 243.79
  },
  {
    "x": 184,
    "date": "2022-11-22",
+   "dxy": 107.45,
+   "tenyear": 0.04,
+   "mmri": 254.93,
    "DXYOpen": 107.7,
    "DXYHigh": 107.75,
    "DXYLow": 107.12,
@@ -1453,15 +1403,14 @@ const _posts = [
    "MMRIOpen": 256.41,
    "MMRIHigh": 256.53,
    "MMRILow": 256.53,
-   "MMRIClose": 250.27,
-   "y": 254.93,
-   "dxy": 107.45,
-   "tenyear": 0.04,
-   "mmri": 254.93
+   "MMRIClose": 250.27
  },
  {
    "x": 183,
    "date": "2022-11-21",
+   "dxy": 107.42,
+   "tenyear": 0.04,
+   "mmri": 256.7,
    "DXYOpen": 106.97,
    "DXYHigh": 107.99,
    "DXYLow": 106.89,
@@ -1473,15 +1422,14 @@ const _posts = [
    "MMRIOpen": 254.27,
    "MMRIHigh": 257.9,
    "MMRILow": 257.9,
-   "MMRIClose": 256.74,
-   "y": 256.7,
-   "dxy": 107.42,
-   "tenyear": 0.04,
-   "mmri": 256.7
+   "MMRIClose": 256.74
  },
  {
    "x": 182,
    "date": "2022-11-18",
+   "dxy": 106.75,
+   "tenyear": 0.04,
+   "mmri": 253.33,
    "DXYOpen": 106.69,
    "DXYHigh": 107.04,
    "DXYLow": 106.34,
@@ -1493,15 +1441,14 @@ const _posts = [
    "MMRIOpen": 249.89,
    "MMRIHigh": 254.64,
    "MMRILow": 254.64,
-   "MMRIClose": 254.17,
-   "y": 253.33,
-   "dxy": 106.75,
-   "tenyear": 0.04,
-   "mmri": 253.33
+   "MMRIClose": 254.17
  },
  {
    "x": 181,
    "date": "2022-11-17",
+   "dxy": 106.58,
+   "tenyear": 0.04,
+   "mmri": 250.12,
    "DXYOpen": 106.27,
    "DXYHigh": 107.24,
    "DXYLow": 106.1,
@@ -1513,15 +1460,14 @@ const _posts = [
    "MMRIOpen": 243.83,
    "MMRIHigh": 253.38,
    "MMRILow": 253.38,
-   "MMRIClose": 249.89,
-   "y": 250.12,
-   "dxy": 106.58,
-   "tenyear": 0.04,
-   "mmri": 250.12
+   "MMRIClose": 249.89
  },
  {
    "x": 180,
    "date": "2022-11-16",
+   "dxy": 106.38,
+   "tenyear": 0.04,
+   "mmri": 250.78,
    "DXYOpen": 106.58,
    "DXYHigh": 106.78,
    "DXYLow": 105.86,
@@ -1533,15 +1479,14 @@ const _posts = [
    "MMRIOpen": 249.83,
    "MMRIHigh": 254.75,
    "MMRILow": 254.75,
-   "MMRIClose": 243.78,
-   "y": 250.78,
-   "dxy": 106.38,
-   "tenyear": 0.04,
-   "mmri": 250.78
+   "MMRIClose": 243.78
  },
  {
    "x": 179,
    "date": "2022-11-15",
+   "dxy": 106.46,
+   "tenyear": 0.04,
+   "mmri": 255.65,
    "DXYOpen": 107,
    "DXYHigh": 107.1,
    "DXYLow": 105.34,
@@ -1553,15 +1498,14 @@ const _posts = [
    "MMRIOpen": 256.53,
    "MMRIHigh": 258.24,
    "MMRILow": 258.24,
-   "MMRIClose": 249.61,
-   "y": 255.65,
-   "dxy": 106.46,
-   "tenyear": 0.04,
-   "mmri": 255.65
+   "MMRIClose": 249.61
  },
  {
    "x": 178,
    "date": "2022-11-14",
+   "dxy": 106.81,
+   "tenyear": 0.04,
+   "mmri": 257.36,
    "DXYOpen": 106.81,
    "DXYHigh": 107.27,
    "DXYLow": 106.48,
@@ -1573,15 +1517,14 @@ const _posts = [
    "MMRIOpen": 253.36,
    "MMRIHigh": 260.25,
    "MMRILow": 260.25,
-   "MMRIClose": 255.59,
-   "y": 257.36,
-   "dxy": 106.81,
-   "tenyear": 0.04,
-   "mmri": 257.36
+   "MMRIClose": 255.59
  },
  {
    "x": 177,
    "date": "2022-11-11",
+   "dxy": 107.31,
+   "tenyear": 0.04,
+   "mmri": 270.66,
    "DXYOpen": 108.24,
    "DXYHigh": 108.44,
    "DXYLow": 106.28,
@@ -1593,15 +1536,14 @@ const _posts = [
    "MMRIOpen": 275.51,
    "MMRIHigh": 277.5,
    "MMRILow": 277.5,
-   "MMRIClose": 252.13,
-   "y": 270.66,
-   "dxy": 107.31,
-   "tenyear": 0.04,
-   "mmri": 270.66
+   "MMRIClose": 252.13
  },
  {
    "x": 176,
    "date": "2022-11-10",
+   "dxy": 109.3,
+   "tenyear": 0.04,
+   "mmri": 283.69,
    "DXYOpen": 110.3,
    "DXYHigh": 110.99,
    "DXYLow": 107.71,
@@ -1613,15 +1555,14 @@ const _posts = [
    "MMRIOpen": 283.15,
    "MMRIHigh": 288.09,
    "MMRILow": 288.09,
-   "MMRIClose": 275.43,
-   "y": 283.69,
-   "dxy": 109.3,
-   "tenyear": 0.04,
-   "mmri": 283.69
+   "MMRIClose": 275.43
  },
  {
    "x": 175,
    "date": "2022-11-09",
+   "dxy": 110.07,
+   "tenyear": 0.04,
+   "mmri": 288.59,
    "DXYOpen": 109.65,
    "DXYHigh": 110.64,
    "DXYLow": 109.45,
@@ -1633,15 +1574,14 @@ const _posts = [
    "MMRIOpen": 287.13,
    "MMRIHigh": 291.72,
    "MMRILow": 291.72,
-   "MMRIClose": 283.79,
-   "y": 288.59,
-   "dxy": 110.07,
-   "tenyear": 0.04,
-   "mmri": 288.59
+   "MMRIClose": 283.79
  },
  {
    "x": 174,
    "date": "2022-11-08",
+   "dxy": 109.92,
+   "tenyear": 0.04,
+   "mmri": 287.97,
    "DXYOpen": 110.06,
    "DXYHigh": 110.61,
    "DXYLow": 109.37,
@@ -1653,15 +1593,14 @@ const _posts = [
    "MMRIOpen": 284.65,
    "MMRIHigh": 290.06,
    "MMRILow": 290.06,
-   "MMRIClose": 287.11,
-   "y": 287.97,
-   "dxy": 109.92,
-   "tenyear": 0.04,
-   "mmri": 287.97
+   "MMRIClose": 287.11
  },
  {
    "x": 173,
    "date": "2022-11-04",
+   "dxy": 111.89,
+   "tenyear": 0.04,
+   "mmri": 292.15,
    "DXYOpen": 112.97,
    "DXYHigh": 112.99,
    "DXYLow": 110.72,
@@ -1673,15 +1612,14 @@ const _posts = [
    "MMRIOpen": 291.48,
    "MMRIHigh": 295.18,
    "MMRILow": 295.18,
-   "MMRIClose": 286.77,
-   "y": 292.15,
-   "dxy": 111.89,
-   "tenyear": 0.04,
-   "mmri": 292.15
+   "MMRIClose": 286.77
  },
  {
    "x": 172,
    "date": "2022-11-03",
+   "dxy": 112.52,
+   "tenyear": 0.04,
+   "mmri": 292.53,
    "DXYOpen": 112.17,
    "DXYHigh": 113.15,
    "DXYLow": 111.82,
@@ -1693,15 +1631,14 @@ const _posts = [
    "MMRIOpen": 286,
    "MMRIHigh": 296.37,
    "MMRILow": 296.37,
-   "MMRIClose": 291.37,
-   "y": 292.53,
-   "dxy": 112.52,
-   "tenyear": 0.04,
-   "mmri": 292.53
+   "MMRIClose": 291.37
  },
  {
    "x": 171,
    "date": "2022-11-02",
+   "dxy": 111.37,
+   "tenyear": 0.04,
+   "mmri": 283.35,
    "DXYOpen": 111.54,
    "DXYHigh": 112.15,
    "DXYLow": 110.43,
@@ -1713,15 +1650,14 @@ const _posts = [
    "MMRIOpen": 280.3,
    "MMRIHigh": 286.3,
    "MMRILow": 286.3,
-   "MMRIClose": 280.52,
-   "y": 283.35,
-   "dxy": 111.37,
-   "tenyear": 0.04,
-   "mmri": 283.35
+   "MMRIClose": 280.52
  },
  {
    "x": 170,
    "date": "2022-11-01",
+   "dxy": 111.38,
+   "tenyear": 0.04,
+   "mmri": 281.77,
    "DXYOpen": 111.52,
    "DXYHigh": 111.78,
    "DXYLow": 110.72,
@@ -1733,15 +1669,14 @@ const _posts = [
    "MMRIOpen": 280.81,
    "MMRIHigh": 283.06,
    "MMRILow": 283.06,
-   "MMRIClose": 280.15,
-   "y": 281.77,
-   "dxy": 111.38,
-   "tenyear": 0.04,
-   "mmri": 281.77
+   "MMRIClose": 280.15
  },
  {
    "x": 169,
    "date": "2022-10-31",
+   "dxy": 111.15,
+   "tenyear": 0.04,
+   "mmri": 281.62,
    "DXYOpen": 110.67,
    "DXYHigh": 111.67,
    "DXYLow": 110.72,
@@ -1753,15 +1688,14 @@ const _posts = [
    "MMRIOpen": 276.06,
    "MMRIHigh": 284.79,
    "MMRILow": 284.79,
-   "MMRIClose": 280.83,
-   "y": 281.62,
-   "dxy": 111.15,
-   "tenyear": 0.04,
-   "mmri": 281.62
+   "MMRIClose": 280.83
  },
  {
    "x": 168,
    "date": "2022-10-28",
+   "dxy": 110.65,
+   "tenyear": 0.04,
+   "mmri": 275.99,
    "DXYOpen": 110.5,
    "DXYHigh": 111.04,
    "DXYLow": 110.29,
@@ -1773,15 +1707,14 @@ const _posts = [
    "MMRIOpen": 269.32,
    "MMRIHigh": 279.19,
    "MMRILow": 279.19,
-   "MMRIClose": 276.26,
-   "y": 275.99,
-   "dxy": 110.65,
-   "tenyear": 0.04,
-   "mmri": 275.99
+   "MMRIClose": 276.26
  },
  {
    "x": 167,
    "date": "2022-10-27",
+   "dxy": 110.09,
+   "tenyear": 0.04,
+   "mmri": 275.81,
    "DXYOpen": 109.62,
    "DXYHigh": 110.62,
    "DXYLow": 109.54,
@@ -1793,15 +1726,14 @@ const _posts = [
    "MMRIOpen": 272.76,
    "MMRIHigh": 280.47,
    "MMRILow": 280.47,
-   "MMRIClose": 269.54,
-   "y": 275.81,
-   "dxy": 110.09,
-   "tenyear": 0.04,
-   "mmri": 275.81
+   "MMRIClose": 269.54
  },
  {
    "x": 166,
    "date": "2022-10-26",
+   "dxy": 110.36,
+   "tenyear": 0.04,
+   "mmri": 280.79,
    "DXYOpen": 110.96,
    "DXYHigh": 111.14,
    "DXYLow": 109.63,
@@ -1813,15 +1745,14 @@ const _posts = [
    "MMRIOpen": 282.78,
    "MMRIHigh": 283.72,
    "MMRILow": 283.72,
-   "MMRIClose": 272.96,
-   "y": 280.79,
-   "dxy": 110.36,
-   "tenyear": 0.04,
-   "mmri": 280.79
+   "MMRIClose": 272.96
  },
  {
    "x": 165,
    "date": "2022-10-25",
+   "dxy": 111.42,
+   "tenyear": 0.04,
+   "mmri": 292.38,
    "DXYOpen": 111.82,
    "DXYHigh": 112.13,
    "DXYLow": 110.76,
@@ -1833,15 +1764,14 @@ const _posts = [
    "MMRIOpen": 295.04,
    "MMRIHigh": 295.86,
    "MMRILow": 295.86,
-   "MMRIClose": 282.75,
-   "y": 292.38,
-   "dxy": 111.42,
-   "tenyear": 0.04,
-   "mmri": 292.38
+   "MMRIClose": 282.75
  },
  {
    "x": 164,
    "date": "2022-10-24",
+   "dxy": 111.97,
+   "tenyear": 0.04,
+   "mmri": 297.21,
    "DXYOpen": 111.88,
    "DXYHigh": 112.53,
    "DXYLow": 111.47,
@@ -1853,15 +1783,14 @@ const _posts = [
    "MMRIOpen": 293.81,
    "MMRIHigh": 299.78,
    "MMRILow": 299.78,
-   "MMRIClose": 295.49,
-   "y": 297.21,
-   "dxy": 111.97,
-   "tenyear": 0.04,
-   "mmri": 297.21
+   "MMRIClose": 295.49
  },
  {
    "x": 163,
    "date": "2022-10-21",
+   "dxy": 112.65,
+   "tenyear": 0.04,
+   "mmri": 300.81,
    "DXYOpen": 112.94,
    "DXYHigh": 113.94,
    "DXYLow": 111.7,
@@ -1873,15 +1802,14 @@ const _posts = [
    "MMRIOpen": 296.94,
    "MMRIHigh": 306.08,
    "MMRILow": 306.08,
-   "MMRIClose": 294.15,
-   "y": 300.81,
-   "dxy": 112.65,
-   "tenyear": 0.04,
-   "mmri": 300.81
+   "MMRIClose": 294.15
  },
  {
    "x": 162,
    "date": "2022-10-20",
+   "dxy": 112.78,
+   "tenyear": 0.04,
+   "mmri": 295.8,
    "DXYOpen": 112.99,
    "DXYHigh": 113.09,
    "DXYLow": 112.17,
@@ -1893,15 +1821,14 @@ const _posts = [
    "MMRIOpen": 290.48,
    "MMRIHigh": 297.97,
    "MMRILow": 297.97,
-   "MMRIClose": 296.78,
-   "y": 295.8,
-   "dxy": 112.78,
-   "tenyear": 0.04,
-   "mmri": 295.8
+   "MMRIClose": 296.78
  },
  {
    "x": 161,
    "date": "2022-10-19",
+   "dxy": 112.48,
+   "tenyear": 0.04,
+   "mmri": 287.73,
    "DXYOpen": 111.91,
    "DXYHigh": 113.1,
    "DXYLow": 111.92,
@@ -1913,15 +1840,14 @@ const _posts = [
    "MMRIOpen": 278.8,
    "MMRIHigh": 290.83,
    "MMRILow": 290.83,
-   "MMRIClose": 290.45,
-   "y": 287.73,
-   "dxy": 112.48,
-   "tenyear": 0.04,
-   "mmri": 287.73
+   "MMRIClose": 290.45
  },
  {
    "x": 160,
    "date": "2022-10-18",
+   "dxy": 112.11,
+   "tenyear": 0.04,
+   "mmri": 281.56,
    "DXYOpen": 112.07,
    "DXYHigh": 112.46,
    "DXYLow": 111.77,
@@ -1933,15 +1859,14 @@ const _posts = [
    "MMRIOpen": 279.55,
    "MMRIHigh": 283.66,
    "MMRILow": 283.66,
-   "MMRIClose": 279.35,
-   "y": 281.56,
-   "dxy": 112.11,
-   "tenyear": 0.04,
-   "mmri": 281.56
+   "MMRIClose": 279.35
  },
  {
    "x": 159,
    "date": "2022-10-17",
+   "dxy": 112.6,
+   "tenyear": 0.04,
+   "mmri": 282.1,
    "DXYOpen": 113.22,
    "DXYHigh": 113.22,
    "DXYLow": 111.92,
@@ -1953,15 +1878,14 @@ const _posts = [
    "MMRIOpen": 282.98,
    "MMRIHigh": 282.98,
    "MMRILow": 282.98,
-   "MMRIClose": 279.47,
-   "y": 282.1,
-   "dxy": 112.6,
-   "tenyear": 0.04,
-   "mmri": 282.1
+   "MMRIClose": 279.47
  },
  {
    "x": 158,
    "date": "2022-10-14",
+   "dxy": 112.84,
+   "tenyear": 0.04,
+   "mmri": 281.65,
    "DXYOpen": 112.47,
    "DXYHigh": 113.42,
    "DXYLow": 112.16,
@@ -1973,15 +1897,14 @@ const _posts = [
    "MMRIOpen": 275.59,
    "MMRIHigh": 283.9,
    "MMRILow": 283.9,
-   "MMRIClose": 283.2,
-   "y": 281.65,
-   "dxy": 112.84,
-   "tenyear": 0.04,
-   "mmri": 281.65
+   "MMRIClose": 283.2
  },
  {
    "x": 157,
    "date": "2022-10-13",
+   "dxy": 112.92,
+   "tenyear": 0.04,
+   "mmri": 281.5,
    "DXYOpen": 113.24,
    "DXYHigh": 113.92,
    "DXYLow": 112.15,
@@ -1993,15 +1916,14 @@ const _posts = [
    "MMRIOpen": 274.31,
    "MMRIHigh": 288.2,
    "MMRILow": 288.2,
-   "MMRIClose": 275.32,
-   "y": 281.5,
-   "dxy": 112.92,
-   "tenyear": 0.04,
-   "mmri": 281.5
+   "MMRIClose": 275.32
  },
  {
    "x": 156,
    "date": "2022-10-12",
+   "dxy": 113.32,
+   "tenyear": 0.04,
+   "mmri": 278.23,
    "DXYOpen": 113.31,
    "DXYHigh": 113.59,
    "DXYLow": 113.05,
@@ -2013,15 +1935,14 @@ const _posts = [
    "MMRIOpen": 277.64,
    "MMRIHigh": 280.38,
    "MMRILow": 280.38,
-   "MMRIClose": 274.5,
-   "y": 278.23,
-   "dxy": 113.32,
-   "tenyear": 0.04,
-   "mmri": 278.23
+   "MMRIClose": 274.5
  },
  {
    "x": 155,
    "date": "2022-10-11",
+   "dxy": 113.05,
+   "tenyear": 0.04,
+   "mmri": 278.87,
    "DXYOpen": 113.08,
    "DXYHigh": 113.5,
    "DXYLow": 112.41,
@@ -2033,15 +1954,14 @@ const _posts = [
    "MMRIOpen": 273.22,
    "MMRIHigh": 282.41,
    "MMRILow": 282.41,
-   "MMRIClose": 277.42,
-   "y": 278.87,
-   "dxy": 113.05,
-   "tenyear": 0.04,
-   "mmri": 278.87
+   "MMRIClose": 277.42
  },
  {
    "x": 154,
    "date": "2022-10-10",
+   "dxy": 112.98,
+   "tenyear": 0.04,
+   "mmri": 273.41,
    "DXYOpen": 112.84,
    "DXYHigh": 113.33,
    "DXYLow": 112.62,
@@ -2053,15 +1973,14 @@ const _posts = [
    "MMRIOpen": 272.64,
    "MMRIHigh": 273.82,
    "MMRILow": 273.82,
-   "MMRIClose": 273.36,
-   "y": 273.41,
-   "dxy": 112.98,
-   "tenyear": 0.04,
-   "mmri": 273.41
+   "MMRIClose": 273.36
  },
  {
    "x": 153,
    "date": "2022-10-07",
+   "dxy": 112.47,
+   "tenyear": 0.04,
+   "mmri": 271.86,
    "DXYOpen": 112.25,
    "DXYHigh": 112.88,
    "DXYLow": 111.95,
@@ -2073,15 +1992,14 @@ const _posts = [
    "MMRIOpen": 266.61,
    "MMRIHigh": 274.14,
    "MMRILow": 274.14,
-   "MMRIClose": 272.54,
-   "y": 271.86,
-   "dxy": 112.47,
-   "tenyear": 0.04,
-   "mmri": 271.86
+   "MMRIClose": 272.54
  },
  {
    "x": 152,
    "date": "2022-10-06",
+   "dxy": 111.59,
+   "tenyear": 0.04,
+   "mmri": 265.43,
    "DXYOpen": 111.02,
    "DXYHigh": 112.31,
    "DXYLow": 110.78,
@@ -2093,15 +2011,14 @@ const _posts = [
    "MMRIOpen": 259.07,
    "MMRIHigh": 268.01,
    "MMRILow": 268.01,
-   "MMRIClose": 266.63,
-   "y": 265.43,
-   "dxy": 111.59,
-   "tenyear": 0.04,
-   "mmri": 265.43
+   "MMRIClose": 266.63
  },
  {
    "x": 151,
    "date": "2022-10-05",
+   "dxy": 110.53,
+   "tenyear": 0.04,
+   "mmri": 257.88,
    "DXYOpen": 110.23,
    "DXYHigh": 111.74,
    "DXYLow": 110.09,
@@ -2113,15 +2030,14 @@ const _posts = [
    "MMRIOpen": 249.01,
    "MMRIHigh": 262.83,
    "MMRILow": 262.83,
-   "MMRIClose": 256.85,
-   "y": 257.88,
-   "dxy": 110.53,
-   "tenyear": 0.04,
-   "mmri": 257.88
+   "MMRIClose": 256.85
  },
  {
    "x": 150,
    "date": "2022-10-04",
+   "dxy": 110.9,
+   "tenyear": 0.04,
+   "mmri": 252.07,
    "DXYOpen": 111.59,
    "DXYHigh": 111.89,
    "DXYLow": 110.06,
@@ -2133,15 +2049,14 @@ const _posts = [
    "MMRIOpen": 252.01,
    "MMRIHigh": 253.8,
    "MMRILow": 253.8,
-   "MMRIClose": 248.65,
-   "y": 252.07,
-   "dxy": 110.9,
-   "tenyear": 0.04,
-   "mmri": 252.07
+   "MMRIClose": 248.65
  },
  {
    "x": 149,
    "date": "2022-10-03",
+   "dxy": 111.98,
+   "tenyear": 0.04,
+   "mmri": 263.61,
    "DXYOpen": 112.17,
    "DXYHigh": 112.54,
    "DXYLow": 111.47,
@@ -2153,15 +2068,14 @@ const _posts = [
    "MMRIOpen": 266.77,
    "MMRIHigh": 267.65,
    "MMRILow": 267.65,
-   "MMRIClose": 252.37,
-   "y": 263.61,
-   "dxy": 111.98,
-   "tenyear": 0.04,
-   "mmri": 263.61
+   "MMRIClose": 252.37
  },
  {
    "x": 148,
    "date": "2022-09-30",
+   "dxy": 112.03,
+   "tenyear": 0.04,
+   "mmri": 266.69,
    "DXYOpen": 111.75,
    "DXYHigh": 112.67,
    "DXYLow": 111.58,
@@ -2173,15 +2087,14 @@ const _posts = [
    "MMRIOpen": 262.92,
    "MMRIHigh": 268.59,
    "MMRILow": 268.59,
-   "MMRIClose": 266.65,
-   "y": 266.69,
-   "dxy": 112.03,
-   "tenyear": 0.04,
-   "mmri": 266.69
+   "MMRIClose": 266.65
  },
  {
    "x": 147,
    "date": "2022-09-29",
+   "dxy": 112.71,
+   "tenyear": 0.04,
+   "mmri": 268.1,
    "DXYOpen": 113.01,
    "DXYHigh": 113.79,
    "DXYLow": 111.77,
@@ -2193,15 +2106,14 @@ const _posts = [
    "MMRIOpen": 262.24,
    "MMRIHigh": 273.03,
    "MMRILow": 273.03,
-   "MMRIClose": 264.1,
-   "y": 268.1,
-   "dxy": 112.71,
-   "tenyear": 0.04,
-   "mmri": 268.1
+   "MMRIClose": 264.1
  },
  {
    "x": 146,
    "date": "2022-09-28",
+   "dxy": 113.53,
+   "tenyear": 0.04,
+   "mmri": 278.27,
    "DXYOpen": 114.19,
    "DXYHigh": 114.78,
    "DXYLow": 112.56,
@@ -2213,15 +2125,14 @@ const _posts = [
    "MMRIOpen": 280.01,
    "MMRIHigh": 285.88,
    "MMRILow": 285.88,
-   "MMRIClose": 261.29,
-   "y": 278.27,
-   "dxy": 113.53,
-   "tenyear": 0.04,
-   "mmri": 278.27
+   "MMRIClose": 261.29
  },
  {
    "x": 145,
    "date": "2022-09-27",
+   "dxy": 114.08,
+   "tenyear": 0.04,
+   "mmri": 280.72,
    "DXYOpen": 114.02,
    "DXYHigh": 114.1,
    "DXYLow": 114.1,
@@ -2233,15 +2144,14 @@ const _posts = [
    "MMRIOpen": 277.54,
    "MMRIHigh": 282.77,
    "MMRILow": 282.77,
-   "MMRIClose": 279.79,
-   "y": 280.72,
-   "dxy": 114.08,
-   "tenyear": 0.04,
-   "mmri": 280.72
+   "MMRIClose": 279.79
  },
  {
    "x": 144,
    "date": "2022-09-26",
+   "dxy": 113.65,
+   "tenyear": 0.04,
+   "mmri": 273.87,
    "DXYOpen": 113.02,
    "DXYHigh": 114.53,
    "DXYLow": 112.94,
@@ -2253,15 +2163,14 @@ const _posts = [
    "MMRIOpen": 258.89,
    "MMRIHigh": 279.42,
    "MMRILow": 279.42,
-   "MMRIClose": 277.74,
-   "y": 273.87,
-   "dxy": 113.65,
-   "tenyear": 0.04,
-   "mmri": 273.87
+   "MMRIClose": 277.74
  },
  {
    "x": 143,
    "date": "2022-09-23",
+   "dxy": 112.19,
+   "tenyear": 0.04,
+   "mmri": 263.57,
    "DXYOpen": 111.24,
    "DXYHigh": 113.23,
    "DXYLow": 111.08,
@@ -2273,15 +2182,14 @@ const _posts = [
    "MMRIOpen": 256.68,
    "MMRIHigh": 269.15,
    "MMRILow": 269.15,
-   "MMRIClose": 259.28,
-   "y": 263.57,
-   "dxy": 112.19,
-   "tenyear": 0.04,
-   "mmri": 263.57
+   "MMRIClose": 259.28
  },
  {
    "x": 142,
    "date": "2022-09-22",
+   "dxy": 111.28,
+   "tenyear": 0.04,
+   "mmri": 254.36,
    "DXYOpen": 111.48,
    "DXYHigh": 111.81,
    "DXYLow": 110.46,
@@ -2293,15 +2201,14 @@ const _posts = [
    "MMRIOpen": 244.49,
    "MMRIHigh": 258,
    "MMRILow": 258,
-   "MMRIClose": 256.93,
-   "y": 254.36,
-   "dxy": 111.28,
-   "tenyear": 0.04,
-   "mmri": 254.36
+   "MMRIClose": 256.93
  },
  {
    "x": 141,
    "date": "2022-09-21",
+   "dxy": 110.63,
+   "tenyear": 0.04,
+   "mmri": 247.03,
    "DXYOpen": 110.16,
    "DXYHigh": 111.58,
    "DXYLow": 110.13,
@@ -2313,15 +2220,14 @@ const _posts = [
    "MMRIOpen": 243.86,
    "MMRIHigh": 250.81,
    "MMRILow": 250.81,
-   "MMRIClose": 242.65,
-   "y": 247.03,
-   "dxy": 110.63,
-   "tenyear": 0.04,
-   "mmri": 247.03
+   "MMRIClose": 242.65
  },
  {
    "x": 140,
    "date": "2022-09-20",
+   "dxy": 109.86,
+   "tenyear": 0.04,
+   "mmri": 243.79,
    "DXYOpen": 109.58,
    "DXYHigh": 110.29,
    "DXYLow": 109.36,
@@ -2333,15 +2239,14 @@ const _posts = [
    "MMRIOpen": 237.67,
    "MMRIHigh": 246.75,
    "MMRILow": 246.75,
-   "MMRIClose": 243.99,
-   "y": 243.79,
-   "dxy": 109.86,
-   "tenyear": 0.04,
-   "mmri": 243.79
+   "MMRIClose": 243.99
  },
  {
    "x": 139,
    "date": "2022-09-19",
+   "dxy": 109.76,
+   "tenyear": 0.03,
+   "mmri": 238.46,
    "DXYOpen": 109.64,
    "DXYHigh": 110.18,
    "DXYLow": 109.49,
@@ -2353,15 +2258,14 @@ const _posts = [
    "MMRIOpen": 235.15,
    "MMRIHigh": 240.34,
    "MMRILow": 240.34,
-   "MMRIClose": 238.02,
-   "y": 238.46,
-   "dxy": 109.76,
-   "tenyear": 0.03,
-   "mmri": 238.46
+   "MMRIClose": 238.02
  },
  {
    "x": 138,
    "date": "2022-09-16",
+   "dxy": 109.83,
+   "tenyear": 0.03,
+   "mmri": 237.33,
    "DXYOpen": 109.8,
    "DXYHigh": 110.26,
    "DXYLow": 109.48,
@@ -2373,15 +2277,14 @@ const _posts = [
    "MMRIOpen": 235.63,
    "MMRIHigh": 239.15,
    "MMRILow": 239.15,
-   "MMRIClose": 235.4,
-   "y": 237.33,
-   "dxy": 109.83,
-   "tenyear": 0.03,
-   "mmri": 237.33
+   "MMRIClose": 235.4
  },
  {
    "x": 137,
    "date": "2022-09-15",
+   "dxy": 109.65,
+   "tenyear": 0.03,
+   "mmri": 234.98,
    "DXYOpen": 109.61,
    "DXYHigh": 109.66,
    "DXYLow": 109.66,
@@ -2393,15 +2296,14 @@ const _posts = [
    "MMRIOpen": 232.02,
    "MMRIHigh": 236.28,
    "MMRILow": 236.28,
-   "MMRIClose": 235.33,
-   "y": 234.98,
-   "dxy": 109.65,
-   "tenyear": 0.03,
-   "mmri": 234.98
+   "MMRIClose": 235.33
  },
  {
    "x": 136,
    "date": "2022-09-14",
+   "dxy": 109.71,
+   "tenyear": 0.03,
+   "mmri": 234.91,
    "DXYOpen": 109.97,
    "DXYHigh": 109.93,
    "DXYLow": 109.28,
@@ -2413,15 +2315,14 @@ const _posts = [
    "MMRIOpen": 233.26,
    "MMRIHigh": 237.13,
    "MMRILow": 237.13,
-   "MMRIClose": 232.13,
-   "y": 234.91,
-   "dxy": 109.71,
-   "tenyear": 0.03,
-   "mmri": 234.91
+   "MMRIClose": 232.13
  },
  {
    "x": 135,
    "date": "2022-09-13",
+   "dxy": 108.94,
+   "tenyear": 0.03,
+   "mmri": 232.74,
    "DXYOpen": 108.23,
    "DXYHigh": 110.01,
    "DXYLow": 107.68,
@@ -2433,15 +2334,14 @@ const _posts = [
    "MMRIOpen": 225.74,
    "MMRIHigh": 236.15,
    "MMRILow": 236.15,
-   "MMRIClose": 232.94,
-   "y": 232.74,
-   "dxy": 108.94,
-   "tenyear": 0.03,
-   "mmri": 232.74
+   "MMRIClose": 232.94
  },
  {
    "x": 134,
    "date": "2022-09-12",
+   "dxy": 108.4,
+   "tenyear": 0.03,
+   "mmri": 226.35,
    "DXYOpen": 108.6,
    "DXYHigh": 108.86,
    "DXYLow": 107.81,
@@ -2453,15 +2353,14 @@ const _posts = [
    "MMRIOpen": 223.61,
    "MMRIHigh": 227.93,
    "MMRILow": 227.93,
-   "MMRIClose": 225.95,
-   "y": 226.35,
-   "dxy": 108.4,
-   "tenyear": 0.03,
-   "mmri": 226.35
+   "MMRIClose": 225.95
  },
  {
    "x": 133,
    "date": "2022-09-09",
+   "dxy": 109.12,
+   "tenyear": 0.03,
+   "mmri": 226.07,
    "DXYOpen": 109.58,
    "DXYHigh": 109.54,
    "DXYLow": 108.36,
@@ -2473,15 +2372,14 @@ const _posts = [
    "MMRIOpen": 226.17,
    "MMRIHigh": 226.84,
    "MMRILow": 226.84,
-   "MMRIClose": 224.43,
-   "y": 226.07,
-   "dxy": 109.12,
-   "tenyear": 0.03,
-   "mmri": 226.07
+   "MMRIClose": 224.43
  },
  {
    "x": 132,
    "date": "2022-09-08",
+   "dxy": 109.74,
+   "tenyear": 0.03,
+   "mmri": 226.42,
    "DXYOpen": 109.67,
    "DXYHigh": 110.24,
    "DXYLow": 109.33,
@@ -2493,15 +2391,14 @@ const _posts = [
    "MMRIOpen": 222.54,
    "MMRIHigh": 228.35,
    "MMRILow": 228.35,
-   "MMRIClose": 226.44,
-   "y": 226.42,
-   "dxy": 109.74,
-   "tenyear": 0.03,
-   "mmri": 226.42
+   "MMRIClose": 226.44
  },
  {
    "x": 131,
    "date": "2022-09-07",
+   "dxy": 110.12,
+   "tenyear": 0.03,
+   "mmri": 228.97,
    "DXYOpen": 110.32,
    "DXYHigh": 110.79,
    "DXYLow": 109.53,
@@ -2513,15 +2410,14 @@ const _posts = [
    "MMRIOpen": 229.48,
    "MMRIHigh": 231.76,
    "MMRILow": 231.76,
-   "MMRIClose": 222.89,
-   "y": 228.97,
-   "dxy": 110.12,
-   "tenyear": 0.03,
-   "mmri": 228.97
+   "MMRIClose": 222.89
  },
  {
    "x": 130,
    "date": "2022-09-06",
+   "dxy": 109.94,
+   "tenyear": 0.03,
+   "mmri": 226.87,
    "DXYOpen": 109.6,
    "DXYHigh": 110.55,
    "DXYLow": 109.38,
@@ -2533,15 +2429,14 @@ const _posts = [
    "MMRIOpen": 217.77,
    "MMRIHigh": 230.23,
    "MMRILow": 230.23,
-   "MMRIClose": 229.25,
-   "y": 226.87,
-   "dxy": 109.94,
-   "tenyear": 0.03,
-   "mmri": 226.87
+   "MMRIClose": 229.25
  },
  {
    "x": 129,
    "date": "2022-09-05",
+   "dxy": 109.86,
+   "tenyear": 0.03,
+   "mmri": 218.56,
    "DXYOpen": 109.61,
    "DXYHigh": 110.27,
    "DXYLow": 109.72,
@@ -2553,15 +2448,14 @@ const _posts = [
    "MMRIOpen": 217.79,
    "MMRIHigh": 219.1,
    "MMRILow": 219.1,
-   "MMRIClose": 218.23,
-   "y": 218.56,
-   "dxy": 109.86,
-   "tenyear": 0.03,
-   "mmri": 218.56
+   "MMRIClose": 218.23
  },
  {
    "x": 128,
    "date": "2022-09-02",
+   "dxy": 109.46,
+   "tenyear": 0.03,
+   "mmri": 221.95,
    "DXYOpen": 109.64,
    "DXYHigh": 109.72,
    "DXYLow": 108.93,
@@ -2573,15 +2467,14 @@ const _posts = [
    "MMRIOpen": 222.28,
    "MMRIHigh": 223.94,
    "MMRILow": 223.94,
-   "MMRIClose": 217.63,
-   "y": 221.95,
-   "dxy": 109.46,
-   "tenyear": 0.03,
-   "mmri": 221.95
+   "MMRIClose": 217.63
  },
  {
    "x": 127,
    "date": "2022-09-01",
+   "dxy": 109.32,
+   "tenyear": 0.03,
+   "mmri": 222.29,
    "DXYOpen": 108.84,
    "DXYHigh": 109.98,
    "DXYLow": 108.77,
@@ -2593,15 +2486,14 @@ const _posts = [
    "MMRIOpen": 215.92,
    "MMRIHigh": 225.42,
    "MMRILow": 225.42,
-   "MMRIClose": 222.38,
-   "y": 222.29,
-   "dxy": 109.32,
-   "tenyear": 0.03,
-   "mmri": 222.29
+   "MMRIClose": 222.38
  },
  {
    "x": 126,
    "date": "2022-08-31",
+   "dxy": 108.76,
+   "tenyear": 0.03,
+   "mmri": 214.81,
    "DXYOpen": 108.75,
    "DXYHigh": 109.2,
    "DXYLow": 108.38,
@@ -2613,15 +2505,14 @@ const _posts = [
    "MMRIOpen": 210.07,
    "MMRIHigh": 216.77,
    "MMRILow": 216.77,
-   "MMRIClose": 215.64,
-   "y": 214.81,
-   "dxy": 108.76,
-   "tenyear": 0.03,
-   "mmri": 214.81
+   "MMRIClose": 215.64
  },
  {
    "x": 125,
    "date": "2022-08-30",
+   "dxy": 108.72,
+   "tenyear": 0.03,
+   "mmri": 211.56,
    "DXYOpen": 108.7,
    "DXYHigh": 109.11,
    "DXYLow": 108.29,
@@ -2633,15 +2524,14 @@ const _posts = [
    "MMRIOpen": 209.57,
    "MMRIHigh": 213.27,
    "MMRILow": 213.27,
-   "MMRIClose": 210.11,
-   "y": 211.56,
-   "dxy": 108.72,
-   "tenyear": 0.03,
-   "mmri": 211.56
+   "MMRIClose": 210.11
  },
  {
    "x": 124,
    "date": "2022-08-29",
+   "dxy": 108.92,
+   "tenyear": 0.03,
+   "mmri": 210.23,
    "DXYOpen": 108.88,
    "DXYHigh": 109.48,
    "DXYLow": 108.49,
@@ -2653,15 +2543,14 @@ const _posts = [
    "MMRIOpen": 205.79,
    "MMRIHigh": 212.64,
    "MMRILow": 212.64,
-   "MMRIClose": 209.84,
-   "y": 210.23,
-   "dxy": 108.92,
-   "tenyear": 0.03,
-   "mmri": 210.23
+   "MMRIClose": 209.84
  },
  {
    "x": 123,
    "date": "2022-08-26",
+   "dxy": 108.43,
+   "tenyear": 0.03,
+   "mmri": 206.9,
    "DXYOpen": 108.47,
    "DXYHigh": 108.87,
    "DXYLow": 107.59,
@@ -2673,15 +2562,14 @@ const _posts = [
    "MMRIOpen": 204.07,
    "MMRIHigh": 208.95,
    "MMRILow": 208.95,
-   "MMRIClose": 205.64,
-   "y": 206.9,
-   "dxy": 108.43,
-   "tenyear": 0.03,
-   "mmri": 206.9
+   "MMRIClose": 205.64
  },
  {
    "x": 122,
    "date": "2022-08-25",
+   "dxy": 108.45,
+   "tenyear": 0.03,
+   "mmri": 208.91,
    "DXYOpen": 108.63,
    "DXYHigh": 108.69,
    "DXYLow": 107.99,
@@ -2693,15 +2581,14 @@ const _posts = [
    "MMRIOpen": 209.77,
    "MMRIHigh": 210.9,
    "MMRILow": 210.9,
-   "MMRIClose": 204.07,
-   "y": 208.91,
-   "dxy": 108.45,
-   "tenyear": 0.03,
-   "mmri": 208.91
+   "MMRIClose": 204.07
  },
  {
    "x": 121,
    "date": "2022-08-24",
+   "dxy": 108.67,
+   "tenyear": 0.03,
+   "mmri": 209.7,
    "DXYOpen": 108.52,
    "DXYHigh": 109.11,
    "DXYLow": 108.36,
@@ -2713,15 +2600,14 @@ const _posts = [
    "MMRIOpen": 205.51,
    "MMRIHigh": 211.71,
    "MMRILow": 211.71,
-   "MMRIClose": 209.87,
-   "y": 209.7,
-   "dxy": 108.67,
-   "tenyear": 0.03,
-   "mmri": 209.7
+   "MMRIClose": 209.87
  },
  {
    "x": 120,
    "date": "2022-08-23",
+   "dxy": 108.74,
+   "tenyear": 0.03,
+   "mmri": 207.21,
    "DXYOpen": 109,
    "DXYHigh": 109.27,
    "DXYLow": 108.08,
@@ -2733,15 +2619,14 @@ const _posts = [
    "MMRIOpen": 204.93,
    "MMRIHigh": 209.11,
    "MMRILow": 209.11,
-   "MMRIClose": 205.7,
-   "y": 207.21,
-   "dxy": 108.74,
-   "tenyear": 0.03,
-   "mmri": 207.21
+   "MMRIClose": 205.7
  },
  {
    "x": 119,
    "date": "2022-08-22",
+   "dxy": 108.58,
+   "tenyear": 0.03,
+   "mmri": 204.26,
    "DXYOpen": 108.09,
    "DXYHigh": 109.1,
    "DXYLow": 108.08,
@@ -2753,15 +2638,14 @@ const _posts = [
    "MMRIOpen": 199.6,
    "MMRIHigh": 206.21,
    "MMRILow": 206.21,
-   "MMRIClose": 205.03,
-   "y": 204.26,
-   "dxy": 108.58,
-   "tenyear": 0.03,
-   "mmri": 204.26
+   "MMRIClose": 205.03
  },
  {
    "x": 118,
    "date": "2022-08-19",
+   "dxy": 107.84,
+   "tenyear": 0.03,
+   "mmri": 198.75,
    "DXYOpen": 107.5,
    "DXYHigh": 108.22,
    "DXYLow": 107.47,
@@ -2773,15 +2657,14 @@ const _posts = [
    "MMRIOpen": 192.5,
    "MMRIHigh": 201.38,
    "MMRILow": 201.38,
-   "MMRIClose": 199.74,
-   "y": 198.75,
-   "dxy": 107.84,
-   "tenyear": 0.03,
-   "mmri": 198.75
+   "MMRIClose": 199.74
  },
  {
    "x": 117,
    "date": "2022-08-18",
+   "dxy": 107.06,
+   "tenyear": 0.03,
+   "mmri": 193.49,
    "DXYOpen": 106.68,
    "DXYHigh": 107.56,
    "DXYLow": 106.51,
@@ -2793,15 +2676,14 @@ const _posts = [
    "MMRIOpen": 192.16,
    "MMRIHigh": 194.68,
    "MMRILow": 194.68,
-   "MMRIClose": 192.46,
-   "y": 193.49,
-   "dxy": 107.06,
-   "tenyear": 0.03,
-   "mmri": 193.49
+   "MMRIClose": 192.46
  },
  {
    "x": 116,
    "date": "2022-08-17",
+   "dxy": 106.56,
+   "tenyear": 0.03,
+   "mmri": 191.2,
    "DXYOpen": 106.45,
    "DXYHigh": 106.89,
    "DXYLow": 106.31,
@@ -2813,15 +2695,14 @@ const _posts = [
    "MMRIOpen": 185.92,
    "MMRIHigh": 193.46,
    "MMRILow": 193.46,
-   "MMRIClose": 191.96,
-   "y": 191.2,
-   "dxy": 106.56,
-   "tenyear": 0.03,
-   "mmri": 191.2
+   "MMRIClose": 191.96
  },
  {
    "x": 115,
    "date": "2022-08-16",
+   "dxy": 106.56,
+   "tenyear": 0.03,
+   "mmri": 187.93,
    "DXYOpen": 106.48,
    "DXYHigh": 106.94,
    "DXYLow": 106.32,
@@ -2833,15 +2714,14 @@ const _posts = [
    "MMRIOpen": 184.32,
    "MMRIHigh": 190.7,
    "MMRILow": 190.7,
-   "MMRIClose": 186.01,
-   "y": 187.93,
-   "dxy": 106.56,
-   "tenyear": 0.03,
-   "mmri": 187.93
+   "MMRIClose": 186.01
  },
  {
    "x": 114,
    "date": "2022-08-15",
+   "dxy": 106.08,
+   "tenyear": 0.03,
+   "mmri": 187.34,
    "DXYOpen": 105.66,
    "DXYHigh": 106.55,
    "DXYLow": 105.55,
@@ -2853,15 +2733,14 @@ const _posts = [
    "MMRIOpen": 186.12,
    "MMRIHigh": 189.41,
    "MMRILow": 189.41,
-   "MMRIClose": 184.44,
-   "y": 187.34,
-   "dxy": 106.08,
-   "tenyear": 0.03,
-   "mmri": 187.34
+   "MMRIClose": 184.44
  },
  {
    "x": 113,
    "date": "2022-08-12",
+   "dxy": 105.44,
+   "tenyear": 0.03,
+   "mmri": 189.23,
    "DXYOpen": 105.16,
    "DXYHigh": 105.88,
    "DXYLow": 105.09,
@@ -2873,15 +2752,14 @@ const _posts = [
    "MMRIOpen": 188.83,
    "MMRIHigh": 190.91,
    "MMRILow": 190.91,
-   "MMRIClose": 186.26,
-   "y": 189.23,
-   "dxy": 105.44,
-   "tenyear": 0.03,
-   "mmri": 189.23
+   "MMRIClose": 186.26
  },
  {
    "x": 112,
    "date": "2022-08-11",
+   "dxy": 105.1,
+   "tenyear": 0.03,
+   "mmri": 187.74,
    "DXYOpen": 105.21,
    "DXYHigh": 105.46,
    "DXYLow": 104.65,
@@ -2893,15 +2771,14 @@ const _posts = [
    "MMRIOpen": 182.19,
    "MMRIHigh": 190.16,
    "MMRILow": 190.16,
-   "MMRIClose": 188.44,
-   "y": 187.74,
-   "dxy": 105.1,
-   "tenyear": 0.03,
-   "mmri": 187.74
+   "MMRIClose": 188.44
  },
  {
    "x": 111,
    "date": "2022-08-10",
+   "dxy": 105.65,
+   "tenyear": 0.03,
+   "mmri": 184.35,
    "DXYOpen": 106.34,
    "DXYHigh": 106.4,
    "DXYLow": 104.64,
@@ -2913,15 +2790,14 @@ const _posts = [
    "MMRIOpen": 183.95,
    "MMRIHigh": 185.64,
    "MMRILow": 185.64,
-   "MMRIClose": 182.17,
-   "y": 184.35,
-   "dxy": 105.65,
-   "tenyear": 0.03,
-   "mmri": 184.35
+   "MMRIClose": 182.17
  },
  {
    "x": 110,
    "date": "2022-08-09",
+   "dxy": 106.27,
+   "tenyear": 0.03,
+   "mmri": 184.63,
    "DXYOpen": 106.34,
    "DXYHigh": 106.41,
    "DXYLow": 105.97,
@@ -2933,15 +2809,14 @@ const _posts = [
    "MMRIOpen": 182.17,
    "MMRIHigh": 186.18,
    "MMRILow": 186.18,
-   "MMRIClose": 184,
-   "y": 184.63,
-   "dxy": 106.27,
-   "tenyear": 0.03,
-   "mmri": 184.63
+   "MMRIClose": 184
  },
  {
    "x": 109,
    "date": "2022-08-08",
+   "dxy": 106.48,
+   "tenyear": 0.03,
+   "mmri": 187.02,
    "DXYOpen": 106.6,
    "DXYHigh": 106.8,
    "DXYLow": 106.09,
@@ -2953,15 +2828,14 @@ const _posts = [
    "MMRIOpen": 187.64,
    "MMRIHigh": 189.06,
    "MMRILow": 189.06,
-   "MMRIClose": 182.34,
-   "y": 187.02,
-   "dxy": 106.48,
-   "tenyear": 0.03,
-   "mmri": 187.02
+   "MMRIClose": 182.34
  },
  {
    "x": 108,
    "date": "2022-08-05",
+   "dxy": 106.24,
+   "tenyear": 0.03,
+   "mmri": 186.2,
    "DXYOpen": 105.72,
    "DXYHigh": 106.93,
    "DXYLow": 105.69,
@@ -2973,15 +2847,14 @@ const _posts = [
    "MMRIOpen": 177.1,
    "MMRIHigh": 190.02,
    "MMRILow": 190.02,
-   "MMRIClose": 187.68,
-   "y": 186.2,
-   "dxy": 106.24,
-   "tenyear": 0.03,
-   "mmri": 186.2
+   "MMRIClose": 187.68
  },
  {
    "x": 107,
    "date": "2022-08-04",
+   "dxy": 106.09,
+   "tenyear": 0.03,
+   "mmri": 179.74,
    "DXYOpen": 106.48,
    "DXYHigh": 106.51,
    "DXYLow": 105.67,
@@ -2993,15 +2866,14 @@ const _posts = [
    "MMRIOpen": 178.97,
    "MMRIHigh": 181.46,
    "MMRILow": 181.46,
-   "MMRIClose": 177.05,
-   "y": 179.74,
-   "dxy": 106.09,
-   "tenyear": 0.03,
-   "mmri": 179.74
+   "MMRIClose": 177.05
  },
  {
    "x": 106,
    "date": "2022-08-03",
+   "dxy": 106.43,
+   "tenyear": 0.03,
+   "mmri": 184.43,
    "DXYOpen": 106.43,
    "DXYHigh": 106.82,
    "DXYLow": 105.97,
@@ -3013,15 +2885,14 @@ const _posts = [
    "MMRIOpen": 181.99,
    "MMRIHigh": 188.36,
    "MMRILow": 188.36,
-   "MMRIClose": 179.02,
-   "y": 184.43,
-   "dxy": 106.43,
-   "tenyear": 0.03,
-   "mmri": 184.43
+   "MMRIClose": 179.02
  },
  {
    "x": 105,
    "date": "2022-08-02",
+   "dxy": 105.75,
+   "tenyear": 0.03,
+   "mmri": 178.88,
    "DXYOpen": 105.36,
    "DXYHigh": 106.35,
    "DXYLow": 105.05,
@@ -3033,15 +2904,14 @@ const _posts = [
    "MMRIOpen": 168.31,
    "MMRIHigh": 182.78,
    "MMRILow": 182.78,
-   "MMRIClose": 181.66,
-   "y": 178.88,
-   "dxy": 105.75,
-   "tenyear": 0.03,
-   "mmri": 178.88
+   "MMRIClose": 181.66
  },
  {
    "x": 104,
    "date": "2022-08-01",
+   "dxy": 105.65,
+   "tenyear": 0.03,
+   "mmri": 174.24,
    "DXYOpen": 105.88,
    "DXYHigh": 106.03,
    "DXYLow": 105.24,
@@ -3053,15 +2923,14 @@ const _posts = [
    "MMRIOpen": 174.34,
    "MMRIHigh": 177.09,
    "MMRILow": 177.09,
-   "MMRIClose": 168.46,
-   "y": 174.24,
-   "dxy": 105.65,
-   "tenyear": 0.03,
-   "mmri": 174.24
+   "MMRIClose": 168.46
  },
  {
    "x": 103,
    "date": "2022-07-29",
+   "dxy": 106.08,
+   "tenyear": 0.03,
+   "mmri": 178.19,
    "DXYOpen": 106.21,
    "DXYHigh": 106.66,
    "DXYLow": 105.54,
@@ -3073,15 +2942,14 @@ const _posts = [
    "MMRIOpen": 176.53,
    "MMRIHigh": 180.92,
    "MMRILow": 180.92,
-   "MMRIClose": 174.37,
-   "y": 178.19,
-   "dxy": 106.08,
-   "tenyear": 0.03,
-   "mmri": 178.19
+   "MMRIClose": 174.37
  },
  {
    "x": 102,
    "date": "2022-07-28",
+   "dxy": 106.44,
+   "tenyear": 0.03,
+   "mmri": 184.16,
    "DXYOpen": 106.37,
    "DXYHigh": 106.98,
    "DXYLow": 106.06,
@@ -3093,15 +2961,14 @@ const _posts = [
    "MMRIOpen": 184.33,
    "MMRIHigh": 187.78,
    "MMRILow": 187.78,
-   "MMRIClose": 176.77,
-   "y": 184.16,
-   "dxy": 106.44,
-   "tenyear": 0.03,
-   "mmri": 184.16
+   "MMRIClose": 176.77
  },
  {
    "x": 101,
    "date": "2022-07-27",
+   "dxy": 106.82,
+   "tenyear": 0.03,
+   "mmri": 186.85,
    "DXYOpen": 107.13,
    "DXYHigh": 107.43,
    "DXYLow": 106.26,
@@ -3113,15 +2980,14 @@ const _posts = [
    "MMRIOpen": 186.71,
    "MMRIHigh": 188.1,
    "MMRILow": 188.1,
-   "MMRIClose": 184.47,
-   "y": 186.85,
-   "dxy": 106.82,
-   "tenyear": 0.03,
-   "mmri": 186.85
+   "MMRIClose": 184.47
  },
  {
    "x": 100,
    "date": "2022-07-26",
+   "dxy": 106.78,
+   "tenyear": 0.03,
+   "mmri": 186.61,
    "DXYOpen": 106.45,
    "DXYHigh": 107.28,
    "DXYLow": 106.2,
@@ -3133,15 +2999,14 @@ const _posts = [
    "MMRIOpen": 185.39,
    "MMRIHigh": 187.11,
    "MMRILow": 187.11,
-   "MMRIClose": 186.82,
-   "y": 186.61,
-   "dxy": 106.78,
-   "tenyear": 0.03,
-   "mmri": 186.61
+   "MMRIClose": 186.82
  },
  {
    "x": 99,
    "date": "2022-07-25",
+   "dxy": 106.7,
+   "tenyear": 0.03,
+   "mmri": 187.06,
    "DXYOpen": 106.59,
    "DXYHigh": 107.36,
    "DXYLow": 106.11,
@@ -3153,15 +3018,14 @@ const _posts = [
    "MMRIOpen": 182.66,
    "MMRIHigh": 189.85,
    "MMRILow": 189.85,
-   "MMRIClose": 185.88,
-   "y": 187.06,
-   "dxy": 106.7,
-   "tenyear": 0.03,
-   "mmri": 187.06
+   "MMRIClose": 185.88
  },
  {
    "x": 98,
    "date": "2022-07-22",
+   "dxy": 106.7,
+   "tenyear": 0.03,
+   "mmri": 190.3,
    "DXYOpen": 106.59,
    "DXYHigh": 107.36,
    "DXYLow": 106.11,
@@ -3173,15 +3037,14 @@ const _posts = [
    "MMRIOpen": 190.74,
    "MMRIHigh": 193.78,
    "MMRILow": 193.78,
-   "MMRIClose": 182.9,
-   "y": 190.3,
-   "dxy": 106.7,
-   "tenyear": 0.03,
-   "mmri": 190.3
+   "MMRIClose": 182.9
  },
  {
    "x": 97,
    "date": "2022-07-21",
+   "dxy": 106.94,
+   "tenyear": 0.03,
+   "mmri": 200.68,
    "DXYOpen": 107.09,
    "DXYHigh": 107.32,
    "DXYLow": 106.42,
@@ -3193,15 +3056,14 @@ const _posts = [
    "MMRIOpen": 201.61,
    "MMRIHigh": 204.91,
    "MMRILow": 204.91,
-   "MMRIClose": 191.31,
-   "y": 200.68,
-   "dxy": 106.94,
-   "tenyear": 0.03,
-   "mmri": 200.68
+   "MMRIClose": 191.31
  },
  {
    "x": 96,
    "date": "2022-07-20",
+   "dxy": 106.85,
+   "tenyear": 0.03,
+   "mmri": 202.28,
    "DXYOpen": 106.67,
    "DXYHigh": 107.26,
    "DXYLow": 106.39,
@@ -3213,15 +3075,14 @@ const _posts = [
    "MMRIOpen": 200.49,
    "MMRIHigh": 203.53,
    "MMRILow": 203.53,
-   "MMRIClose": 201.59,
-   "y": 202.28,
-   "dxy": 106.85,
-   "tenyear": 0.03,
-   "mmri": 202.28
+   "MMRIClose": 201.59
  },
  {
    "x": 95,
    "date": "2022-07-19",
+   "dxy": 107.05,
+   "tenyear": 0.03,
+   "mmri": 201.56,
    "DXYOpen": 107.49,
    "DXYHigh": 107.63,
    "DXYLow": 106.4,
@@ -3233,15 +3094,14 @@ const _posts = [
    "MMRIOpen": 199.42,
    "MMRIHigh": 203.16,
    "MMRILow": 203.16,
-   "MMRIClose": 200.51,
-   "y": 201.56,
-   "dxy": 107.05,
-   "tenyear": 0.03,
-   "mmri": 201.56
+   "MMRIClose": 200.51
  },
  {
    "x": 94,
    "date": "2022-07-18",
+   "dxy": 107.58,
+   "tenyear": 0.03,
+   "mmri": 199.85,
    "DXYOpen": 108.01,
    "DXYHigh": 108.04,
    "DXYLow": 106.89,
@@ -3253,15 +3113,14 @@ const _posts = [
    "MMRIOpen": 195.83,
    "MMRIHigh": 202.19,
    "MMRILow": 202.19,
-   "MMRIClose": 199.2,
-   "y": 199.85,
-   "dxy": 107.58,
-   "tenyear": 0.03,
-   "mmri": 199.85
+   "MMRIClose": 199.2
  },
  {
    "x": 93,
    "date": "2022-07-15",
+   "dxy": 108.34,
+   "tenyear": 0.03,
+   "mmri": 199.37,
    "DXYOpen": 108.67,
    "DXYHigh": 108.71,
    "DXYLow": 107.91,
@@ -3273,15 +3132,14 @@ const _posts = [
    "MMRIOpen": 200.06,
    "MMRIHigh": 200.74,
    "MMRILow": 200.74,
-   "MMRIClose": 195.92,
-   "y": 199.37,
-   "dxy": 108.34,
-   "tenyear": 0.03,
-   "mmri": 199.37
+   "MMRIClose": 195.92
  },
  {
    "x": 92,
    "date": "2022-07-14",
+   "dxy": 108.54,
+   "tenyear": 0.03,
+   "mmri": 201.76,
    "DXYOpen": 108.14,
    "DXYHigh": 109.29,
    "DXYLow": 108.2,
@@ -3293,15 +3151,14 @@ const _posts = [
    "MMRIOpen": 197.2,
    "MMRIHigh": 205,
    "MMRILow": 205,
-   "MMRIClose": 199.82,
-   "y": 201.76,
-   "dxy": 108.54,
-   "tenyear": 0.03,
-   "mmri": 201.76
+   "MMRIClose": 199.82
  },
  {
    "x": 91,
    "date": "2022-07-13",
+   "dxy": 108.05,
+   "tenyear": 0.03,
+   "mmri": 202.74,
    "DXYOpen": 108.19,
    "DXYHigh": 108.58,
    "DXYLow": 107.48,
@@ -3313,15 +3170,14 @@ const _posts = [
    "MMRIOpen": 199.98,
    "MMRIHigh": 207.04,
    "MMRILow": 207.04,
-   "MMRIClose": 196.88,
-   "y": 202.74,
-   "dxy": 108.05,
-   "tenyear": 0.03,
-   "mmri": 202.74
+   "MMRIClose": 196.88
  },
  {
    "x": 90,
    "date": "2022-07-12",
+   "dxy": 108.16,
+   "tenyear": 0.03,
+   "mmri": 201.23,
    "DXYOpen": 108.18,
    "DXYHigh": 108.56,
    "DXYLow": 107.84,
@@ -3333,15 +3189,14 @@ const _posts = [
    "MMRIOpen": 201.24,
    "MMRIHigh": 201.95,
    "MMRILow": 201.95,
-   "MMRIClose": 199.76,
-   "y": 201.23,
-   "dxy": 108.16,
-   "tenyear": 0.03,
-   "mmri": 201.23
+   "MMRIClose": 199.76
  },
  {
    "x": 89,
    "date": "2022-07-11",
+   "dxy": 107.54,
+   "tenyear": 0.03,
+   "mmri": 205.81,
    "DXYOpen": 106.93,
    "DXYHigh": 108.27,
    "DXYLow": 106.92,
@@ -3353,15 +3208,14 @@ const _posts = [
    "MMRIOpen": 204.83,
    "MMRIHigh": 208.74,
    "MMRILow": 208.74,
-   "MMRIClose": 200.94,
-   "y": 205.81,
-   "dxy": 107.54,
-   "tenyear": 0.03,
-   "mmri": 205.81
+   "MMRIClose": 200.94
  },
  {
    "x": 88,
    "date": "2022-07-08",
+   "dxy": 107.16,
+   "tenyear": 0.03,
+   "mmri": 204.91,
    "DXYOpen": 107.04,
    "DXYHigh": 107.79,
    "DXYLow": 106.81,
@@ -3373,15 +3227,14 @@ const _posts = [
    "MMRIOpen": 199.59,
    "MMRIHigh": 207.55,
    "MMRILow": 207.55,
-   "MMRIClose": 204.98,
-   "y": 204.91,
-   "dxy": 107.16,
-   "tenyear": 0.03,
-   "mmri": 204.91
+   "MMRIClose": 204.98
  },
  {
    "x": 87,
    "date": "2022-07-07",
+   "dxy": 107.04,
+   "tenyear": 0.03,
+   "mmri": 199.35,
    "DXYOpen": 107.07,
    "DXYHigh": 107.24,
    "DXYLow": 106.71,
@@ -3393,15 +3246,14 @@ const _posts = [
    "MMRIOpen": 195.19,
    "MMRIHigh": 201.22,
    "MMRILow": 201.22,
-   "MMRIClose": 199.75,
-   "y": 199.35,
-   "dxy": 107.04,
-   "tenyear": 0.03,
-   "mmri": 199.35
+   "MMRIClose": 199.75
  },
  {
    "x": 86,
    "date": "2022-07-06",
+   "dxy": 106.8,
+   "tenyear": 0.03,
+   "mmri": 193.09,
    "DXYOpen": 106.49,
    "DXYHigh": 107.26,
    "DXYLow": 106.36,
@@ -3413,15 +3265,14 @@ const _posts = [
    "MMRIOpen": 185.53,
    "MMRIHigh": 195.8,
    "MMRILow": 195.8,
-   "MMRIClose": 195.24,
-   "y": 193.09,
-   "dxy": 106.8,
-   "tenyear": 0.03,
-   "mmri": 193.09
+   "MMRIClose": 195.24
  },
  {
    "x": 85,
    "date": "2022-07-05",
+   "dxy": 105.88,
+   "tenyear": 0.03,
+   "mmri": 192.42,
    "DXYOpen": 105.14,
    "DXYHigh": 106.79,
    "DXYLow": 105.05,
@@ -3433,15 +3284,14 @@ const _posts = [
    "MMRIOpen": 188.99,
    "MMRIHigh": 197.53,
    "MMRILow": 197.53,
-   "MMRIClose": 185.62,
-   "y": 192.42,
-   "dxy": 105.88,
-   "tenyear": 0.03,
-   "mmri": 192.42
+   "MMRIClose": 185.62
  },
  {
    "x": 84,
    "date": "2022-07-04",
+   "dxy": 105.09,
+   "tenyear": 0.03,
+   "mmri": 189.09,
    "DXYOpen": 105.14,
    "DXYHigh": 105.25,
    "DXYLow": 104.82,
@@ -3453,15 +3303,14 @@ const _posts = [
    "MMRIOpen": 188.99,
    "MMRIHigh": 189.19,
    "MMRILow": 189.19,
-   "MMRIClose": 188.99,
-   "y": 189.09,
-   "dxy": 105.09,
-   "tenyear": 0.03,
-   "mmri": 189.09
+   "MMRIClose": 188.99
  },
  {
    "x": 83,
    "date": "2022-07-01",
+   "dxy": 105.08,
+   "tenyear": 0.03,
+   "mmri": 195.55,
    "DXYOpen": 104.78,
    "DXYHigh": 105.64,
    "DXYLow": 104.74,
@@ -3473,15 +3322,14 @@ const _posts = [
    "MMRIOpen": 196.09,
    "MMRIHigh": 198.55,
    "MMRILow": 198.55,
-   "MMRIClose": 188.99,
-   "y": 195.55,
-   "dxy": 105.08,
-   "tenyear": 0.03,
-   "mmri": 195.55
+   "MMRIClose": 188.99
  },
  {
    "x": 82,
    "date": "2022-06-30",
+   "dxy": 104.99,
+   "tenyear": 0.03,
+   "mmri": 201.32,
    "DXYOpen": 105.06,
    "DXYHigh": 105.54,
    "DXYLow": 104.65,
@@ -3493,15 +3341,14 @@ const _posts = [
    "MMRIOpen": 202.03,
    "MMRIHigh": 203.67,
    "MMRILow": 203.67,
-   "MMRIClose": 195.92,
-   "y": 201.32,
-   "dxy": 104.99,
-   "tenyear": 0.03,
-   "mmri": 201.32
+   "MMRIClose": 195.92
  },
  {
    "x": 81,
    "date": "2022-06-29",
+   "dxy": 104.77,
+   "tenyear": 0.03,
+   "mmri": 206.22,
    "DXYOpen": 104.46,
    "DXYHigh": 105.15,
    "DXYLow": 104.36,
@@ -3513,15 +3360,14 @@ const _posts = [
    "MMRIOpen": 206.32,
    "MMRIHigh": 208.21,
    "MMRILow": 208.21,
-   "MMRIClose": 202.12,
-   "y": 206.22,
-   "dxy": 104.77,
-   "tenyear": 0.03,
-   "mmri": 206.22
+   "MMRIClose": 202.12
  },
  {
    "x": 80,
    "date": "2022-06-28",
+   "dxy": 104.22,
+   "tenyear": 0.03,
+   "mmri": 209.18,
    "DXYOpen": 103.97,
    "DXYHigh": 104.61,
    "DXYLow": 103.77,
@@ -3533,15 +3379,14 @@ const _posts = [
    "MMRIOpen": 207.29,
    "MMRIHigh": 211.49,
    "MMRILow": 211.49,
-   "MMRIClose": 206.42,
-   "y": 209.18,
-   "dxy": 104.22,
-   "tenyear": 0.03,
-   "mmri": 209.18
+   "MMRIClose": 206.42
  },
  {
    "x": 79,
    "date": "2022-06-27",
+   "dxy": 103.99,
+   "tenyear": 0.03,
+   "mmri": 206.79,
    "DXYOpen": 104.12,
    "DXYHigh": 104.21,
    "DXYLow": 103.67,
@@ -3553,15 +3398,14 @@ const _posts = [
    "MMRIOpen": 202.81,
    "MMRIHigh": 208.55,
    "MMRILow": 208.55,
-   "MMRIClose": 207.23,
-   "y": 206.79,
-   "dxy": 103.99,
-   "tenyear": 0.03,
-   "mmri": 206.79
+   "MMRIClose": 207.23
  },
  {
    "x": 78,
    "date": "2022-06-24",
+   "dxy": 104.26,
+   "tenyear": 0.03,
+   "mmri": 202.67,
    "DXYOpen": 104.38,
    "DXYHigh": 104.51,
    "DXYLow": 103.95,
@@ -3573,15 +3417,14 @@ const _posts = [
    "MMRIOpen": 200.33,
    "MMRIHigh": 203.7,
    "MMRILow": 203.7,
-   "MMRIClose": 202.94,
-   "y": 202.67,
-   "dxy": 104.26,
-   "tenyear": 0.03,
-   "mmri": 202.67
+   "MMRIClose": 202.94
  },
  {
    "x": 77,
    "date": "2022-06-23",
+   "dxy": 104.37,
+   "tenyear": 0.03,
+   "mmri": 204.53,
    "DXYOpen": 104.21,
    "DXYHigh": 104.77,
    "DXYLow": 104.06,
@@ -3593,15 +3436,14 @@ const _posts = [
    "MMRIOpen": 204.73,
    "MMRIHigh": 206.48,
    "MMRILow": 206.48,
-   "MMRIClose": 200.43,
-   "y": 204.53,
-   "dxy": 104.37,
-   "tenyear": 0.03,
-   "mmri": 204.53
+   "MMRIClose": 200.43
  },
  {
    "x": 76,
    "date": "2022-06-22",
+   "dxy": 104.36,
+   "tenyear": 0.03,
+   "mmri": 211.53,
    "DXYOpen": 104.43,
    "DXYHigh": 104.95,
    "DXYLow": 103.86,
@@ -3613,15 +3455,14 @@ const _posts = [
    "MMRIOpen": 213.01,
    "MMRIHigh": 214.2,
    "MMRILow": 214.2,
-   "MMRIClose": 204.71,
-   "y": 211.53,
-   "dxy": 104.36,
-   "tenyear": 0.03,
-   "mmri": 211.53
+   "MMRIClose": 204.71
  },
  {
    "x": 75,
    "date": "2022-06-21",
+   "dxy": 104.34,
+   "tenyear": 0.03,
+   "mmri": 213.3,
    "DXYOpen": 104.44,
    "DXYHigh": 104.54,
    "DXYLow": 103.94,
@@ -3633,15 +3474,14 @@ const _posts = [
    "MMRIOpen": 209.92,
    "MMRIHigh": 215.12,
    "MMRILow": 215.12,
-   "MMRIClose": 213.03,
-   "y": 213.3,
-   "dxy": 104.34,
-   "tenyear": 0.03,
-   "mmri": 213.3
+   "MMRIClose": 213.03
  },
  {
    "x": 74,
    "date": "2022-06-20",
+   "dxy": 104.6,
+   "tenyear": 0.03,
+   "mmri": 210.54,
    "DXYOpen": 104.65,
    "DXYHigh": 104.82,
    "DXYLow": 104.23,
@@ -3653,15 +3493,14 @@ const _posts = [
    "MMRIOpen": 210.34,
    "MMRIHigh": 210.68,
    "MMRILow": 210.68,
-   "MMRIClose": 210.44,
-   "y": 210.54,
-   "dxy": 104.6,
-   "tenyear": 0.03,
-   "mmri": 210.54
+   "MMRIClose": 210.44
  },
  {
    "x": 73,
    "date": "2022-06-17",
+   "dxy": 104.38,
+   "tenyear": 0.03,
+   "mmri": 212.34,
    "DXYOpen": 103.88,
    "DXYHigh": 105.09,
    "DXYLow": 103.83,
@@ -3673,15 +3512,14 @@ const _posts = [
    "MMRIOpen": 206.53,
    "MMRIHigh": 216.19,
    "MMRILow": 216.19,
-   "MMRIClose": 210.44,
-   "y": 212.34,
-   "dxy": 104.38,
-   "tenyear": 0.03,
-   "mmri": 212.34
+   "MMRIClose": 210.44
  },
  {
    "x": 72,
    "date": "2022-06-16",
+   "dxy": 104.36,
+   "tenyear": 0.03,
+   "mmri": 219.19,
    "DXYOpen": 104.9,
    "DXYHigh": 105.49,
    "DXYLow": 103.42,
@@ -3693,15 +3531,14 @@ const _posts = [
    "MMRIOpen": 214.3,
    "MMRIHigh": 228.21,
    "MMRILow": 228.21,
-   "MMRIClose": 206.04,
-   "y": 219.19,
-   "dxy": 104.36,
-   "tenyear": 0.03,
-   "mmri": 219.19
+   "MMRIClose": 206.04
  },
  {
    "x": 71,
    "date": "2022-06-15",
+   "dxy": 105.24,
+   "tenyear": 0.03,
+   "mmri": 224.97,
    "DXYOpen": 105.35,
    "DXYHigh": 105.79,
    "DXYLow": 104.66,
@@ -3713,15 +3550,14 @@ const _posts = [
    "MMRIOpen": 227.71,
    "MMRIHigh": 228.66,
    "MMRILow": 228.66,
-   "MMRIClose": 214.83,
-   "y": 224.97,
-   "dxy": 105.24,
-   "tenyear": 0.03,
-   "mmri": 224.97
+   "MMRIClose": 214.83
  },
  {
    "x": 70,
    "date": "2022-06-14",
+   "dxy": 105.25,
+   "tenyear": 0.03,
+   "mmri": 226.84,
    "DXYOpen": 105.19,
    "DXYHigh": 105.65,
    "DXYLow": 104.62,
@@ -3733,15 +3569,14 @@ const _posts = [
    "MMRIOpen": 219.79,
    "MMRIHigh": 229.74,
    "MMRILow": 229.74,
-   "MMRIClose": 228.08,
-   "y": 226.84,
-   "dxy": 105.25,
-   "tenyear": 0.03,
-   "mmri": 226.84
+   "MMRIClose": 228.08
  },
  {
    "x": 69,
    "date": "2022-06-13",
+   "dxy": 104.7,
+   "tenyear": 0.03,
+   "mmri": 218.52,
    "DXYOpen": 104.21,
    "DXYHigh": 105.29,
    "DXYLow": 104.21,
@@ -3753,15 +3588,14 @@ const _posts = [
    "MMRIOpen": 204.73,
    "MMRIHigh": 224.9,
    "MMRILow": 224.9,
-   "MMRIClose": 219.56,
-   "y": 218.52,
-   "dxy": 104.7,
-   "tenyear": 0.03,
-   "mmri": 218.52
+   "MMRIClose": 219.56
  },
  {
    "x": 68,
    "date": "2022-06-10",
+   "dxy": 103.69,
+   "tenyear": 0.03,
+   "mmri": 202.72,
    "DXYOpen": 103.34,
    "DXYHigh": 104.23,
    "DXYLow": 103.05,
@@ -3773,15 +3607,14 @@ const _posts = [
    "MMRIOpen": 195.58,
    "MMRIHigh": 205.35,
    "MMRILow": 205.35,
-   "MMRIClose": 204.61,
-   "y": 202.72,
-   "dxy": 103.69,
-   "tenyear": 0.03,
-   "mmri": 202.72
+   "MMRIClose": 204.61
  },
  {
    "x": 67,
    "date": "2022-06-09",
+   "dxy": 102.83,
+   "tenyear": 0.03,
+   "mmri": 195.58,
    "DXYOpen": 102.56,
    "DXYHigh": 103.37,
    "DXYLow": 102.15,
@@ -3793,15 +3626,14 @@ const _posts = [
    "MMRIOpen": 192.51,
    "MMRIHigh": 197.24,
    "MMRILow": 197.24,
-   "MMRIClose": 195.35,
-   "y": 195.58,
-   "dxy": 102.83,
-   "tenyear": 0.03,
-   "mmri": 195.58
+   "MMRIClose": 195.35
  },
  {
    "x": 66,
    "date": "2022-06-08",
+   "dxy": 102.5,
+   "tenyear": 0.03,
+   "mmri": 192.55,
    "DXYOpen": 102.39,
    "DXYHigh": 102.78,
    "DXYLow": 102.27,
@@ -3813,15 +3645,14 @@ const _posts = [
    "MMRIOpen": 189.71,
    "MMRIHigh": 194.01,
    "MMRILow": 194.01,
-   "MMRIClose": 192.47,
-   "y": 192.55,
-   "dxy": 102.5,
-   "tenyear": 0.03,
-   "mmri": 192.55
+   "MMRIClose": 192.47
  },
  {
    "x": 65,
    "date": "2022-06-07",
+   "dxy": 102.48,
+   "tenyear": 0.03,
+   "mmri": 193.71,
    "DXYOpen": 102.49,
    "DXYHigh": 102.84,
    "DXYLow": 102.26,
@@ -3833,15 +3664,14 @@ const _posts = [
    "MMRIOpen": 194.09,
    "MMRIHigh": 195.59,
    "MMRILow": 195.59,
-   "MMRIClose": 189.58,
-   "y": 193.71,
-   "dxy": 102.48,
-   "tenyear": 0.03,
-   "mmri": 193.71
+   "MMRIClose": 189.58
  },
  {
    "x": 64,
    "date": "2022-06-06",
+   "dxy": 102.23,
+   "tenyear": 0.03,
+   "mmri": 192.64,
    "DXYOpen": 102.16,
    "DXYHigh": 102.47,
    "DXYLow": 101.85,
@@ -3853,15 +3683,14 @@ const _posts = [
    "MMRIOpen": 186.55,
    "MMRIHigh": 195.01,
    "MMRILow": 195.01,
-   "MMRIClose": 194,
-   "y": 192.64,
-   "dxy": 102.23,
-   "tenyear": 0.03,
-   "mmri": 192.64
+   "MMRIClose": 194
  },
  {
    "x": 63,
    "date": "2022-06-03",
+   "dxy": 101.94,
+   "tenyear": 0.03,
+   "mmri": 187.44,
    "DXYOpen": 101.75,
    "DXYHigh": 102.23,
    "DXYLow": 101.64,
@@ -3873,15 +3702,14 @@ const _posts = [
    "MMRIOpen": 184.03,
    "MMRIHigh": 189.6,
    "MMRILow": 189.6,
-   "MMRIClose": 186.52,
-   "y": 187.44,
-   "dxy": 101.94,
-   "tenyear": 0.03,
-   "mmri": 187.44
+   "MMRIClose": 186.52
  },
  {
    "x": 62,
    "date": "2022-06-02",
+   "dxy": 102.18,
+   "tenyear": 0.03,
+   "mmri": 186.68,
    "DXYOpen": 102.55,
    "DXYHigh": 102.62,
    "DXYLow": 101.74,
@@ -3893,15 +3721,14 @@ const _posts = [
    "MMRIOpen": 185.61,
    "MMRIHigh": 188.48,
    "MMRILow": 188.48,
-   "MMRIClose": 184.16,
-   "y": 186.68,
-   "dxy": 102.18,
-   "tenyear": 0.03,
-   "mmri": 186.68
+   "MMRIClose": 184.16
  },
  {
    "x": 61,
    "date": "2022-06-01",
+   "dxy": 102.18,
+   "tenyear": 0.03,
+   "mmri": 185.77,
    "DXYOpen": 101.76,
    "DXYHigh": 102.73,
    "DXYLow": 101.74,
@@ -3913,15 +3740,14 @@ const _posts = [
    "MMRIOpen": 180.32,
    "MMRIHigh": 188.61,
    "MMRILow": 188.61,
-   "MMRIClose": 185.52,
-   "y": 185.77,
-   "dxy": 102.18,
-   "tenyear": 0.03,
-   "mmri": 185.77
+   "MMRIClose": 185.52
  },
  {
    "x": 60,
    "date": "2022-05-31",
+   "dxy": 101.69,
+   "tenyear": 0.03,
+   "mmri": 179.7,
    "DXYOpen": 101.44,
    "DXYHigh": 102.17,
    "DXYLow": 101.41,
@@ -3933,15 +3759,14 @@ const _posts = [
    "MMRIOpen": 172.95,
    "MMRIHigh": 182.76,
    "MMRILow": 182.76,
-   "MMRIClose": 180.31,
-   "y": 179.7,
-   "dxy": 101.69,
-   "tenyear": 0.03,
-   "mmri": 179.7
+   "MMRIClose": 180.31
  },
  {
    "x": 59,
    "date": "2022-05-30",
+   "dxy": 101.59,
+   "tenyear": 0.03,
+   "mmri": 173.38,
    "DXYOpen": 101.66,
    "DXYHigh": 101.72,
    "DXYLow": 101.3,
@@ -3953,15 +3778,14 @@ const _posts = [
    "MMRIOpen": 173.33,
    "MMRIHigh": 173.43,
    "MMRILow": 173.43,
-   "MMRIClose": 173.34,
-   "y": 173.38,
-   "dxy": 101.59,
-   "tenyear": 0.03,
-   "mmri": 173.38
+   "MMRIClose": 173.34
  },
  {
    "x": 58,
    "date": "2022-05-27",
+   "dxy": 101.69,
+   "tenyear": 0.03,
+   "mmri": 174.42,
    "DXYOpen": 101.72,
    "DXYHigh": 101.94,
    "DXYLow": 101.43,
@@ -3973,15 +3797,14 @@ const _posts = [
    "MMRIOpen": 173.81,
    "MMRIHigh": 175.26,
    "MMRILow": 175.26,
-   "MMRIClose": 173.34,
-   "y": 174.42,
-   "dxy": 101.69,
-   "tenyear": 0.03,
-   "mmri": 174.42
+   "MMRIClose": 173.34
  },
  {
    "x": 57,
    "date": "2022-05-26",
+   "dxy": 101.97,
+   "tenyear": 0.03,
+   "mmri": 175.71,
    "DXYOpen": 102.02,
    "DXYHigh": 102.27,
    "DXYLow": 101.74,
@@ -3993,15 +3816,14 @@ const _posts = [
    "MMRIOpen": 174.32,
    "MMRIHigh": 177.48,
    "MMRILow": 177.48,
-   "MMRIClose": 173.55,
-   "y": 175.71,
-   "dxy": 101.97,
-   "tenyear": 0.03,
-   "mmri": 175.71
+   "MMRIClose": 173.55
  },
  {
    "x": 56,
    "date": "2022-05-25",
+   "dxy": 102,
+   "tenyear": 0.03,
+   "mmri": 175.35,
    "DXYOpen": 101.77,
    "DXYHigh": 102.45,
    "DXYLow": 101.73,
@@ -4013,15 +3835,14 @@ const _posts = [
    "MMRIOpen": 174.08,
    "MMRIHigh": 176.46,
    "MMRILow": 176.46,
-   "MMRIClose": 174.39,
-   "y": 175.35,
-   "dxy": 102,
-   "tenyear": 0.03,
-   "mmri": 175.35
+   "MMRIClose": 174.39
  },
  {
    "x": 55,
    "date": "2022-05-24",
+   "dxy": 101.99,
+   "tenyear": 0.03,
+   "mmri": 179.79,
    "DXYOpen": 102.11,
    "DXYHigh": 102.32,
    "DXYLow": 101.65,
@@ -4033,15 +3854,14 @@ const _posts = [
    "MMRIOpen": 181.01,
    "MMRIHigh": 181.95,
    "MMRILow": 181.95,
-   "MMRIClose": 174.24,
-   "y": 179.79,
-   "dxy": 101.99,
-   "tenyear": 0.03,
-   "mmri": 179.79
+   "MMRIClose": 174.24
  },
  {
    "x": 54,
    "date": "2022-05-23",
+   "dxy": 102.55,
+   "tenyear": 0.03,
+   "mmri": 181.62,
    "DXYOpen": 103.04,
    "DXYHigh": 103.05,
    "DXYLow": 102.04,
@@ -4053,15 +3873,14 @@ const _posts = [
    "MMRIOpen": 178.24,
    "MMRIHigh": 183.63,
    "MMRILow": 183.63,
-   "MMRIClose": 180.95,
-   "y": 181.62,
-   "dxy": 102.55,
-   "tenyear": 0.03,
-   "mmri": 181.62
+   "MMRIClose": 180.95
  },
  {
    "x": 53,
    "date": "2022-05-20",
+   "dxy": 103.02,
+   "tenyear": 0.03,
+   "mmri": 183.51,
    "DXYOpen": 102.9,
    "DXYHigh": 103.26,
    "DXYLow": 102.77,
@@ -4073,15 +3892,14 @@ const _posts = [
    "MMRIOpen": 181.9,
    "MMRIHigh": 184.65,
    "MMRILow": 184.65,
-   "MMRIClose": 182.85,
-   "y": 183.51,
-   "dxy": 103.02,
-   "tenyear": 0.03,
-   "mmri": 183.51
+   "MMRIClose": 182.85
  },
  {
    "x": 52,
    "date": "2022-05-19",
+   "dxy": 103.27,
+   "tenyear": 0.03,
+   "mmri": 186.92,
    "DXYOpen": 103.83,
    "DXYHigh": 103.88,
    "DXYLow": 102.66,
@@ -4093,15 +3911,14 @@ const _posts = [
    "MMRIOpen": 186.31,
    "MMRIHigh": 188.4,
    "MMRILow": 188.4,
-   "MMRIClose": 184.58,
-   "y": 186.92,
-   "dxy": 103.27,
-   "tenyear": 0.03,
-   "mmri": 186.92
+   "MMRIClose": 184.58
  },
  {
    "x": 51,
    "date": "2022-05-18",
+   "dxy": 103.57,
+   "tenyear": 0.03,
+   "mmri": 193.04,
    "DXYOpen": 103.34,
    "DXYHigh": 103.93,
    "DXYLow": 103.19,
@@ -4113,15 +3930,14 @@ const _posts = [
    "MMRIOpen": 191.92,
    "MMRIHigh": 194.37,
    "MMRILow": 194.37,
-   "MMRIClose": 191.5,
-   "y": 193.04,
-   "dxy": 103.57,
-   "tenyear": 0.03,
-   "mmri": 193.04
+   "MMRIClose": 191.5
  },
  {
    "x": 50,
    "date": "2022-05-17",
+   "dxy": 103.75,
+   "tenyear": 0.03,
+   "mmri": 189.82,
    "DXYOpen": 104.17,
    "DXYHigh": 104.23,
    "DXYLow": 103.23,
@@ -4133,15 +3949,14 @@ const _posts = [
    "MMRIOpen": 186.54,
    "MMRIHigh": 193.96,
    "MMRILow": 193.96,
-   "MMRIClose": 184.83,
-   "y": 189.82,
-   "dxy": 103.75,
-   "tenyear": 0.03,
-   "mmri": 189.82
+   "MMRIClose": 184.83
  },
  {
    "x": 49,
    "date": "2022-05-16",
+   "dxy": 104.36,
+   "tenyear": 0.03,
+   "mmri": 190.7,
    "DXYOpen": 104.47,
    "DXYHigh": 104.64,
    "DXYLow": 104.14,
@@ -4153,15 +3968,14 @@ const _posts = [
    "MMRIOpen": 189.34,
    "MMRIHigh": 191.86,
    "MMRILow": 191.86,
-   "MMRIClose": 189.74,
-   "y": 190.7,
-   "dxy": 104.36,
-   "tenyear": 0.03,
-   "mmri": 190.7
+   "MMRIClose": 189.74
  },
  {
    "x": 48,
    "date": "2022-05-13",
+   "dxy": 104.7,
+   "tenyear": 0.03,
+   "mmri": 189.75,
    "DXYOpen": 104.77,
    "DXYHigh": 105.01,
    "DXYLow": 104.47,
@@ -4173,15 +3987,14 @@ const _posts = [
    "MMRIOpen": 185.59,
    "MMRIHigh": 191.95,
    "MMRILow": 191.95,
-   "MMRIClose": 189.51,
-   "y": 189.75,
-   "dxy": 104.7,
-   "tenyear": 0.03,
-   "mmri": 189.75
+   "MMRIClose": 189.51
  },
  {
    "x": 47,
    "date": "2022-05-12",
+   "dxy": 104.42,
+   "tenyear": 0.03,
+   "mmri": 189.28,
    "DXYOpen": 104.01,
    "DXYHigh": 104.93,
    "DXYLow": 103.88,
@@ -4193,15 +4006,14 @@ const _posts = [
    "MMRIOpen": 189.35,
    "MMRIHigh": 191.02,
    "MMRILow": 191.02,
-   "MMRIClose": 185.73,
-   "y": 189.28,
-   "dxy": 104.42,
-   "tenyear": 0.03,
-   "mmri": 189.28
+   "MMRIClose": 185.73
  },
  {
    "x": 46,
    "date": "2022-05-11",
+   "dxy": 103.81,
+   "tenyear": 0.03,
+   "mmri": 196.35,
    "DXYOpen": 103.9,
    "DXYHigh": 104.11,
    "DXYLow": 103.37,
@@ -4213,15 +4025,14 @@ const _posts = [
    "MMRIOpen": 193.22,
    "MMRIHigh": 199.3,
    "MMRILow": 199.3,
-   "MMRIClose": 193.57,
-   "y": 196.35,
-   "dxy": 103.81,
-   "tenyear": 0.03,
-   "mmri": 196.35
+   "MMRIClose": 193.57
  },
  {
    "x": 45,
    "date": "2022-05-10",
+   "dxy": 103.78,
+   "tenyear": 0.03,
+   "mmri": 197.71,
    "DXYOpen": 103.73,
    "DXYHigh": 103.98,
    "DXYLow": 103.5,
@@ -4233,15 +4044,14 @@ const _posts = [
    "MMRIOpen": 195.86,
    "MMRIHigh": 198.01,
    "MMRILow": 198.01,
-   "MMRIClose": 198.93,
-   "y": 197.71,
-   "dxy": 103.78,
-   "tenyear": 0.03,
-   "mmri": 197.71
+   "MMRIClose": 198.93
  },
  {
    "x": 44,
    "date": "2022-05-09",
+   "dxy": 103.72,
+   "tenyear": 0.03,
+   "mmri": 204.69,
    "DXYOpen": 103.66,
    "DXYHigh": 104.19,
    "DXYLow": 103.39,
@@ -4253,15 +4063,14 @@ const _posts = [
    "MMRIOpen": 202.17,
    "MMRIHigh": 207.6,
    "MMRILow": 207.6,
-   "MMRIClose": 201.38,
-   "y": 204.69,
-   "dxy": 103.72,
-   "tenyear": 0.03,
-   "mmri": 204.69
+   "MMRIClose": 201.38
  },
  {
    "x": 43,
    "date": "2022-05-06",
+   "dxy": 103.62,
+   "tenyear": 0.03,
+   "mmri": 201.08,
    "DXYOpen": 103.56,
    "DXYHigh": 104.06,
    "DXYLow": 103.19,
@@ -4273,15 +4082,14 @@ const _posts = [
    "MMRIOpen": 195.73,
    "MMRIHigh": 203.53,
    "MMRILow": 203.53,
-   "MMRIClose": 201.53,
-   "y": 201.08,
-   "dxy": 103.62,
-   "tenyear": 0.03,
-   "mmri": 201.08
+   "MMRIClose": 201.53
  },
  {
    "x": 42,
    "date": "2022-05-05",
+   "dxy": 103.18,
+   "tenyear": 0.03,
+   "mmri": 196.51,
    "DXYOpen": 102.68,
    "DXYHigh": 103.94,
    "DXYLow": 102.35,
@@ -4293,15 +4101,14 @@ const _posts = [
    "MMRIOpen": 187.31,
    "MMRIHigh": 200.52,
    "MMRILow": 200.52,
-   "MMRIClose": 197.7,
-   "y": 196.51,
-   "dxy": 103.18,
-   "tenyear": 0.03,
-   "mmri": 196.51
+   "MMRIClose": 197.7
  },
  {
    "x": 41,
    "date": "2022-05-04",
+   "dxy": 103.03,
+   "tenyear": 0.03,
+   "mmri": 191.28,
    "DXYOpen": 103.46,
    "DXYHigh": 103.62,
    "DXYLow": 102.46,
@@ -4313,15 +4120,14 @@ const _posts = [
    "MMRIOpen": 190.79,
    "MMRIHigh": 193.6,
    "MMRILow": 193.6,
-   "MMRIClose": 187.15,
-   "y": 191.28,
-   "dxy": 103.03,
-   "tenyear": 0.03,
-   "mmri": 191.28
+   "MMRIClose": 187.15
  },
  {
    "x": 40,
    "date": "2022-05-03",
+   "dxy": 103.44,
+   "tenyear": 0.03,
+   "mmri": 192.66,
    "DXYOpen": 103.6,
    "DXYHigh": 103.67,
    "DXYLow": 103.03,
@@ -4333,15 +4139,14 @@ const _posts = [
    "MMRIOpen": 191.82,
    "MMRIHigh": 194.01,
    "MMRILow": 194.01,
-   "MMRIClose": 190.81,
-   "y": 192.66,
-   "dxy": 103.44,
-   "tenyear": 0.03,
-   "mmri": 192.66
+   "MMRIClose": 190.81
  },
  {
    "x": 39,
    "date": "2022-05-02",
+   "dxy": 103.45,
+   "tenyear": 0.03,
+   "mmri": 191.98,
    "DXYOpen": 103.18,
    "DXYHigh": 103.75,
    "DXYLow": 103.11,
@@ -4353,15 +4158,14 @@ const _posts = [
    "MMRIOpen": 188.03,
    "MMRIHigh": 193.9,
    "MMRILow": 193.9,
-   "MMRIClose": 192.08,
-   "y": 191.98,
-   "dxy": 103.45,
-   "tenyear": 0.03,
-   "mmri": 191.98
+   "MMRIClose": 192.08
  },
  {
    "x": 38,
    "date": "2022-04-29",
+   "dxy": 103.28,
+   "tenyear": 0.03,
+   "mmri": 186.96,
    "DXYOpen": 103.67,
    "DXYHigh": 103.67,
    "DXYLow": 102.82,
@@ -4373,15 +4177,14 @@ const _posts = [
    "MMRIOpen": 181.97,
    "MMRIHigh": 189.12,
    "MMRILow": 189.12,
-   "MMRIClose": 187.63,
-   "y": 186.96,
-   "dxy": 103.28,
-   "tenyear": 0.03,
-   "mmri": 186.96
+   "MMRIClose": 187.63
  },
  {
    "x": 37,
    "date": "2022-04-28",
+   "dxy": 103.39,
+   "tenyear": 0.03,
+   "mmri": 183.96,
    "DXYOpen": 103.04,
    "DXYHigh": 103.93,
    "DXYLow": 102.98,
@@ -4393,15 +4196,14 @@ const _posts = [
    "MMRIOpen": 181.38,
    "MMRIHigh": 186.3,
    "MMRILow": 186.3,
-   "MMRIClose": 181.88,
-   "y": 183.96,
-   "dxy": 103.39,
-   "tenyear": 0.03,
-   "mmri": 183.96
+   "MMRIClose": 181.88
  },
  {
    "x": 36,
    "date": "2022-04-27",
+   "dxy": 102.68,
+   "tenyear": 0.03,
+   "mmri": 179.69,
    "DXYOpen": 102.28,
    "DXYHigh": 103.28,
    "DXYLow": 102.22,
@@ -4413,15 +4215,14 @@ const _posts = [
    "MMRIOpen": 173.43,
    "MMRIHigh": 182.06,
    "MMRILow": 182.06,
-   "MMRIClose": 181.22,
-   "y": 179.69,
-   "dxy": 102.68,
-   "tenyear": 0.03,
-   "mmri": 179.69
+   "MMRIClose": 181.22
  },
  {
    "x": 35,
    "date": "2022-04-26",
+   "dxy": 101.75,
+   "tenyear": 0.03,
+   "mmri": 179.32,
    "DXYOpen": 101.73,
    "DXYHigh": 101.75,
    "DXYLow": 101.75,
@@ -4433,15 +4234,14 @@ const _posts = [
    "MMRIOpen": 182.99,
    "MMRIHigh": 180.87,
    "MMRILow": 180.87,
-   "MMRIClose": 172.53,
-   "y": 179.32,
-   "dxy": 101.75,
-   "tenyear": 0.03,
-   "mmri": 179.32
+   "MMRIClose": 172.53
  },
  {
    "x": 34,
    "date": "2022-04-25",
+   "dxy": 101.43,
+   "tenyear": 0.03,
+   "mmri": 181.74,
    "DXYOpen": 101.07,
    "DXYHigh": 101.86,
    "DXYLow": 101.04,
@@ -4453,15 +4253,14 @@ const _posts = [
    "MMRIOpen": 181.8,
    "MMRIHigh": 183.22,
    "MMRILow": 183.22,
-   "MMRIClose": 178.73,
-   "y": 181.74,
-   "dxy": 101.43,
-   "tenyear": 0.03,
-   "mmri": 181.74
+   "MMRIClose": 178.73
  },
  {
    "x": 33,
    "date": "2022-04-22",
+   "dxy": 100.91,
+   "tenyear": 0.03,
+   "mmri": 184.46,
    "DXYOpen": 100.62,
    "DXYHigh": 101.33,
    "DXYLow": 100.47,
@@ -4473,15 +4272,14 @@ const _posts = [
    "MMRIOpen": 181.93,
    "MMRIHigh": 186.93,
    "MMRILow": 186.93,
-   "MMRIClose": 182.07,
-   "y": 184.46,
-   "dxy": 100.91,
-   "tenyear": 0.03,
-   "mmri": 184.46
+   "MMRIClose": 182.07
  },
  {
    "x": 32,
    "date": "2022-04-21",
+   "dxy": 100.35,
+   "tenyear": 0.03,
+   "mmri": 182.11,
    "DXYOpen": 100.35,
    "DXYHigh": 100.64,
    "DXYLow": 99.82,
@@ -4493,15 +4291,14 @@ const _posts = [
    "MMRIOpen": 177.01,
    "MMRIHigh": 184.78,
    "MMRILow": 184.78,
-   "MMRIClose": 181.86,
-   "y": 182.11,
-   "dxy": 100.35,
-   "tenyear": 0.03,
-   "mmri": 182.11
+   "MMRIClose": 181.86
  },
  {
    "x": 31,
    "date": "2022-04-20",
+   "dxy": 100.66,
+   "tenyear": 0.03,
+   "mmri": 183.83,
    "DXYOpen": 100.98,
    "DXYHigh": 101.04,
    "DXYLow": 100.22,
@@ -4513,15 +4310,14 @@ const _posts = [
    "MMRIOpen": 184.46,
    "MMRIHigh": 186.89,
    "MMRILow": 186.89,
-   "MMRIClose": 177.09,
-   "y": 183.83,
-   "dxy": 100.66,
-   "tenyear": 0.03,
-   "mmri": 183.83
+   "MMRIClose": 177.09
  },
  {
    "x": 30,
    "date": "2022-04-19",
+   "dxy": 100.88,
+   "tenyear": 0.03,
+   "mmri": 183.35,
    "DXYOpen": 100.83,
    "DXYHigh": 101.03,
    "DXYLow": 100.7,
@@ -4533,15 +4329,14 @@ const _posts = [
    "MMRIOpen": 179.24,
    "MMRIHigh": 184.87,
    "MMRILow": 184.87,
-   "MMRIClose": 184.42,
-   "y": 183.35,
-   "dxy": 100.88,
-   "tenyear": 0.03,
-   "mmri": 183.35
+   "MMRIClose": 184.42
  },
  {
    "x": 29,
    "date": "2022-04-18",
+   "dxy": 100.65,
+   "tenyear": 0.03,
+   "mmri": 179.22,
    "DXYOpen": 100.5,
    "DXYHigh": 100.86,
    "DXYLow": 100.46,
@@ -4553,15 +4348,14 @@ const _posts = [
    "MMRIOpen": 176.66,
    "MMRIHigh": 180.55,
    "MMRILow": 180.55,
-   "MMRIClose": 179.15,
-   "y": 179.22,
-   "dxy": 100.65,
-   "tenyear": 0.03,
-   "mmri": 179.22
+   "MMRIClose": 179.15
  },
  {
    "x": 28,
    "date": "2022-04-15",
+   "dxy": 100.47,
+   "tenyear": 0.03,
+   "mmri": 176.68,
    "DXYOpen": 100.42,
    "DXYHigh": 100.57,
    "DXYLow": 100.4,
@@ -4573,15 +4367,14 @@ const _posts = [
    "MMRIOpen": 176.51,
    "MMRIHigh": 176.78,
    "MMRILow": 176.78,
-   "MMRIClose": 176.66,
-   "y": 176.68,
-   "dxy": 100.47,
-   "tenyear": 0.03,
-   "mmri": 176.68
+   "MMRIClose": 176.66
  },
  {
    "x": 27,
    "date": "2022-04-14",
+   "dxy": 100.11,
+   "tenyear": 0.03,
+   "mmri": 174.54,
    "DXYOpen": 99.79,
    "DXYHigh": 100.76,
    "DXYLow": 99.57,
@@ -4593,15 +4386,14 @@ const _posts = [
    "MMRIOpen": 167.23,
    "MMRIHigh": 177.36,
    "MMRILow": 177.36,
-   "MMRIClose": 176.21,
-   "y": 174.54,
-   "dxy": 100.11,
-   "tenyear": 0.03,
-   "mmri": 174.54
+   "MMRIClose": 176.21
  },
  {
    "x": 26,
    "date": "2022-04-13",
+   "dxy": 100.14,
+   "tenyear": 0.03,
+   "mmri": 171.48,
    "DXYOpen": 100.34,
    "DXYHigh": 100.52,
    "DXYLow": 99.83,
@@ -4613,15 +4405,14 @@ const _posts = [
    "MMRIOpen": 170.14,
    "MMRIHigh": 174.19,
    "MMRILow": 174.19,
-   "MMRIClose": 167.38,
-   "y": 171.48,
-   "dxy": 100.14,
-   "tenyear": 0.03,
-   "mmri": 171.48
+   "MMRIClose": 167.38
  },
  {
    "x": 25,
    "date": "2022-04-12",
+   "dxy": 100.1,
+   "tenyear": 0.03,
+   "mmri": 174.77,
    "DXYOpen": 100.04,
    "DXYHigh": 100.33,
    "DXYLow": 99.74,
@@ -4633,15 +4424,14 @@ const _posts = [
    "MMRIOpen": 172.86,
    "MMRIHigh": 176.61,
    "MMRILow": 176.61,
-   "MMRIClose": 172.98,
-   "y": 174.77,
-   "dxy": 100.1,
-   "tenyear": 0.03,
-   "mmri": 174.77
+   "MMRIClose": 172.98
  },
  {
    "x": 24,
    "date": "2022-04-11",
+   "dxy": 99.86,
+   "tenyear": 0.03,
+   "mmri": 171.93,
    "DXYOpen": 99.84,
    "DXYHigh": 100.05,
    "DXYLow": 99.62,
@@ -4653,15 +4443,14 @@ const _posts = [
    "MMRIOpen": 168.05,
    "MMRIHigh": 173.5,
    "MMRILow": 173.5,
-   "MMRIClose": 172.67,
-   "y": 171.93,
-   "dxy": 99.86,
-   "tenyear": 0.03,
-   "mmri": 171.93
+   "MMRIClose": 172.67
  },
  {
    "x": 23,
    "date": "2022-04-08",
+   "dxy": 99.89,
+   "tenyear": 0.03,
+   "mmri": 167.38,
    "DXYOpen": 99.82,
    "DXYHigh": 100.19,
    "DXYLow": 99.74,
@@ -4673,15 +4462,14 @@ const _posts = [
    "MMRIOpen": 165.17,
    "MMRIHigh": 169.76,
    "MMRILow": 169.76,
-   "MMRIClose": 164.82,
-   "y": 167.38,
-   "dxy": 99.89,
-   "tenyear": 0.03,
-   "mmri": 167.38
+   "MMRIClose": 164.82
  },
  {
    "x": 22,
    "date": "2022-04-07",
+   "dxy": 99.66,
+   "tenyear": 0.03,
+   "mmri": 163.47,
    "DXYOpen": 99.65,
    "DXYHigh": 99.83,
    "DXYLow": 99.4,
@@ -4693,15 +4481,14 @@ const _posts = [
    "MMRIOpen": 160.86,
    "MMRIHigh": 165.49,
    "MMRILow": 165.49,
-   "MMRIClose": 162.02,
-   "y": 163.47,
-   "dxy": 99.66,
-   "tenyear": 0.03,
-   "mmri": 163.47
+   "MMRIClose": 162.02
  },
  {
    "x": 21,
    "date": "2022-04-06",
+   "dxy": 99.54,
+   "tenyear": 0.03,
+   "mmri": 162.08,
    "DXYOpen": 99.47,
    "DXYHigh": 99.77,
    "DXYLow": 99.31,
@@ -4713,15 +4500,14 @@ const _posts = [
    "MMRIOpen": 157.85,
    "MMRIHigh": 164.84,
    "MMRILow": 164.84,
-   "MMRIClose": 160.78,
-   "y": 162.08,
-   "dxy": 99.54,
-   "tenyear": 0.03,
-   "mmri": 162.08
+   "MMRIClose": 160.78
  },
  {
    "x": 20,
    "date": "2022-04-05",
+   "dxy": 99.21,
+   "tenyear": 0.02,
+   "mmri": 155.71,
    "DXYOpen": 99,
    "DXYHigh": 99.52,
    "DXYLow": 98.84,
@@ -4733,15 +4519,14 @@ const _posts = [
    "MMRIOpen": 147.89,
    "MMRIHigh": 158.55,
    "MMRILow": 158.55,
-   "MMRIClose": 157.85,
-   "y": 155.71,
-   "dxy": 99.21,
-   "tenyear": 0.02,
-   "mmri": 155.71
+   "MMRIClose": 157.85
  },
  {
    "x": 19,
    "date": "2022-04-04",
+   "dxy": 98.79,
+   "tenyear": 0.02,
+   "mmri": 148.28,
    "DXYOpen": 98.57,
    "DXYHigh": 99.08,
    "DXYLow": 98.52,
@@ -4753,15 +4538,14 @@ const _posts = [
    "MMRIOpen": 146.02,
    "MMRIHigh": 149.6,
    "MMRILow": 149.6,
-   "MMRIClose": 147.89,
-   "y": 148.28,
-   "dxy": 98.79,
-   "tenyear": 0.02,
-   "mmri": 148.28
+   "MMRIClose": 147.89
  },
  {
    "x": 18,
    "date": "2022-04-01",
+   "dxy": 98.51,
+   "tenyear": 0.02,
+   "mmri": 147.49,
    "DXYOpen": 98.34,
    "DXYHigh": 98.74,
    "DXYLow": 98.31,
@@ -4773,15 +4557,14 @@ const _posts = [
    "MMRIOpen": 142.87,
    "MMRIHigh": 150.5,
    "MMRILow": 150.5,
-   "MMRIClose": 146.11,
-   "y": 147.49,
-   "dxy": 98.51,
-   "tenyear": 0.02,
-   "mmri": 147.49
+   "MMRIClose": 146.11
  },
  {
    "x": 17,
    "date": "2022-03-31",
+   "dxy": 98.06,
+   "tenyear": 0.02,
+   "mmri": 143.62,
    "DXYOpen": 97.83,
    "DXYHigh": 98.4,
    "DXYLow": 97.69,
@@ -4793,15 +4576,14 @@ const _posts = [
    "MMRIOpen": 143.04,
    "MMRIHigh": 144.3,
    "MMRILow": 144.3,
-   "MMRIClose": 142.82,
-   "y": 143.62,
-   "dxy": 98.06,
-   "tenyear": 0.02,
-   "mmri": 143.62
+   "MMRIClose": 142.82
  },
  {
    "x": 16,
    "date": "2022-03-30",
+   "dxy": 98.07,
+   "tenyear": 0.02,
+   "mmri": 146.73,
    "DXYOpen": 98.37,
    "DXYHigh": 98.43,
    "DXYLow": 97.69,
@@ -4813,15 +4595,14 @@ const _posts = [
    "MMRIOpen": 146.7,
    "MMRIHigh": 148.62,
    "MMRILow": 148.62,
-   "MMRIClose": 142.98,
-   "y": 146.73,
-   "dxy": 98.07,
-   "tenyear": 0.02,
-   "mmri": 146.73
+   "MMRIClose": 142.98
  },
  {
    "x": 15,
    "date": "2022-03-29",
+   "dxy": 98.71,
+   "tenyear": 0.02,
+   "mmri": 152.66,
    "DXYOpen": 99.08,
    "DXYHigh": 99.3,
    "DXYLow": 98.04,
@@ -4833,15 +4614,14 @@ const _posts = [
    "MMRIOpen": 151.7,
    "MMRIHigh": 156.1,
    "MMRILow": 156.1,
-   "MMRIClose": 146.74,
-   "y": 152.66,
-   "dxy": 98.71,
-   "tenyear": 0.02,
-   "mmri": 152.66
+   "MMRIClose": 146.74
  },
  {
    "x": 14,
    "date": "2022-03-28",
+   "dxy": 99.02,
+   "tenyear": 0.02,
+   "mmri": 154.56,
    "DXYOpen": 98.8,
    "DXYHigh": 99.37,
    "DXYLow": 98.8,
@@ -4853,15 +4633,14 @@ const _posts = [
    "MMRIOpen": 152.13,
    "MMRIHigh": 157.2,
    "MMRILow": 157.2,
-   "MMRIClose": 151.71,
-   "y": 154.56,
-   "dxy": 99.02,
-   "tenyear": 0.02,
-   "mmri": 154.56
+   "MMRIClose": 151.71
  },
  {
    "x": 13,
    "date": "2022-03-25",
+   "dxy": 98.69,
+   "tenyear": 0.02,
+   "mmri": 151.27,
    "DXYOpen": 98.75,
    "DXYHigh": 98.83,
    "DXYLow": 98.4,
@@ -4873,15 +4652,14 @@ const _posts = [
    "MMRIOpen": 145.67,
    "MMRIHigh": 153.65,
    "MMRILow": 153.65,
-   "MMRIClose": 152.11,
-   "y": 151.27,
-   "dxy": 98.69,
-   "tenyear": 0.02,
-   "mmri": 151.27
+   "MMRIClose": 152.11
  },
  {
    "x": 12,
    "date": "2022-03-24",
+   "dxy": 98.75,
+   "tenyear": 0.02,
+   "mmri": 145.31,
    "DXYOpen": 98.64,
    "DXYHigh": 98.96,
    "DXYLow": 98.6,
@@ -4893,15 +4671,14 @@ const _posts = [
    "MMRIOpen": 140.61,
    "MMRIHigh": 147.46,
    "MMRILow": 147.46,
-   "MMRIClose": 145.73,
-   "y": 145.31,
-   "dxy": 98.75,
-   "tenyear": 0.02,
-   "mmri": 145.31
+   "MMRIClose": 145.73
  },
  {
    "x": 11,
    "date": "2022-03-23",
+   "dxy": 98.59,
+   "tenyear": 0.02,
+   "mmri": 145.9,
    "DXYOpen": 98.48,
    "DXYHigh": 98.88,
    "DXYLow": 98.39,
@@ -4913,15 +4690,14 @@ const _posts = [
    "MMRIOpen": 145.88,
    "MMRIHigh": 148.57,
    "MMRILow": 148.57,
-   "MMRIClose": 140.58,
-   "y": 145.9,
-   "dxy": 98.59,
-   "tenyear": 0.02,
-   "mmri": 145.9
+   "MMRIClose": 140.58
  },
  {
    "x": 10,
    "date": "2022-03-22",
+   "dxy": 98.57,
+   "tenyear": 0.02,
+   "mmri": 145.02,
    "DXYOpen": 98.49,
    "DXYHigh": 98.97,
    "DXYLow": 98.32,
@@ -4933,15 +4709,14 @@ const _posts = [
    "MMRIOpen": 140.33,
    "MMRIHigh": 146.92,
    "MMRILow": 146.92,
-   "MMRIClose": 145.9,
-   "y": 145.02,
-   "dxy": 98.57,
-   "tenyear": 0.02,
-   "mmri": 145.02
+   "MMRIClose": 145.9
  },
  {
    "x": 9,
    "date": "2022-03-21",
+   "dxy": 98.36,
+   "tenyear": 0.02,
+   "mmri": 138.98,
    "DXYOpen": 98.24,
    "DXYHigh": 98.53,
    "DXYLow": 98.16,
@@ -4953,15 +4728,14 @@ const _posts = [
    "MMRIOpen": 131.37,
    "MMRIHigh": 142.1,
    "MMRILow": 142.1,
-   "MMRIClose": 140.35,
-   "y": 138.98,
-   "dxy": 98.36,
-   "tenyear": 0.02,
-   "mmri": 138.98
+   "MMRIClose": 140.35
  },
  {
    "x": 8,
    "date": "2022-03-18",
+   "dxy": 98.17,
+   "tenyear": 0.02,
+   "mmri": 132.92,
    "DXYOpen": 98,
    "DXYHigh": 98.62,
    "DXYLow": 97.84,
@@ -4973,15 +4747,14 @@ const _posts = [
    "MMRIOpen": 132.51,
    "MMRIHigh": 133.9,
    "MMRILow": 133.9,
-   "MMRIClose": 131.36,
-   "y": 132.92,
-   "dxy": 98.17,
-   "tenyear": 0.02,
-   "mmri": 132.92
+   "MMRIClose": 131.36
  },
  {
    "x": 7,
    "date": "2022-03-17",
+   "dxy": 98.18,
+   "tenyear": 0.02,
+   "mmri": 134.47,
    "DXYOpen": 98.5,
    "DXYHigh": 98.51,
    "DXYLow": 97.73,
@@ -4993,15 +4766,14 @@ const _posts = [
    "MMRIOpen": 134.35,
    "MMRIHigh": 135.53,
    "MMRILow": 135.53,
-   "MMRIClose": 132.47,
-   "y": 134.47,
-   "dxy": 98.18,
-   "tenyear": 0.02,
-   "mmri": 134.47
+   "MMRIClose": 132.47
  },
  {
    "x": 6,
    "date": "2022-03-16",
+   "dxy": 98.72,
+   "tenyear": 0.02,
+   "mmri": 135.78,
    "DXYOpen": 98.89,
    "DXYHigh": 99.08,
    "DXYLow": 98.3,
@@ -5013,15 +4785,14 @@ const _posts = [
    "MMRIOpen": 131.94,
    "MMRIHigh": 138.34,
    "MMRILow": 138.34,
-   "MMRIClose": 134.52,
-   "y": 135.78,
-   "dxy": 98.72,
-   "tenyear": 0.02,
-   "mmri": 135.78
+   "MMRIClose": 134.52
  },
  {
    "x": 5,
    "date": "2022-03-15",
+   "dxy": 99.02,
+   "tenyear": 0.02,
+   "mmri": 132.79,
    "DXYOpen": 99.13,
    "DXYHigh": 99.2,
    "DXYLow": 98.64,
@@ -5033,15 +4804,14 @@ const _posts = [
    "MMRIOpen": 132.01,
    "MMRIHigh": 133.46,
    "MMRILow": 133.46,
-   "MMRIClose": 132.22,
-   "y": 132.79,
-   "dxy": 99.02,
-   "tenyear": 0.02,
-   "mmri": 132.79
+   "MMRIClose": 132.22
  },
  {
    "x": 4,
    "date": "2022-03-14",
+   "dxy": 99.02,
+   "tenyear": 0.02,
+   "mmri": 129.91,
    "DXYOpen": 99.09,
    "DXYHigh": 99.29,
    "DXYLow": 98.68,
@@ -5053,15 +4823,14 @@ const _posts = [
    "MMRIOpen": 122.97,
    "MMRIHigh": 132.41,
    "MMRILow": 132.41,
-   "MMRIClose": 131.84,
-   "y": 129.91,
-   "dxy": 99.02,
-   "tenyear": 0.02,
-   "mmri": 129.91
+   "MMRIClose": 131.84
  },
  {
    "x": 3,
    "date": "2022-03-11",
+   "dxy": 98.73,
+   "tenyear": 0.02,
+   "mmri": 123.57,
    "DXYOpen": 98.36,
    "DXYHigh": 99.16,
    "DXYLow": 98.27,
@@ -5073,15 +4842,14 @@ const _posts = [
    "MMRIOpen": 121.82,
    "MMRIHigh": 124.72,
    "MMRILow": 124.72,
-   "MMRIClose": 123.01,
-   "y": 123.57,
-   "dxy": 98.73,
-   "tenyear": 0.02,
-   "mmri": 123.57
+   "MMRIClose": 123.01
  },
  {
    "x": 2,
    "date": "2022-03-10",
+   "dxy": 98.22,
+   "tenyear": 0.02,
+   "mmri": 122.15,
    "DXYOpen": 98.06,
    "DXYHigh": 98.6,
    "DXYLow": 97.71,
@@ -5093,15 +4861,14 @@ const _posts = [
    "MMRIOpen": 119.07,
    "MMRIHigh": 123.77,
    "MMRILow": 123.77,
-   "MMRIClose": 122.01,
-   "y": 122.15,
-   "dxy": 98.22,
-   "tenyear": 0.02,
-   "mmri": 122.15
+   "MMRIClose": 122.01
  },
  {
    "x": 1,
    "date": "2022-03-09",
+   "dxy": 98.51,
+   "tenyear": 0.02,
+   "mmri": 118.36,
    "DXYOpen": 99.12,
    "DXYHigh": 99.11,
    "DXYLow": 97.85,
@@ -5113,15 +4880,14 @@ const _posts = [
    "MMRIOpen": 113.77,
    "MMRIHigh": 120.35,
    "MMRILow": 120.35,
-   "MMRIClose": 118.96,
-   "y": 118.36,
-   "dxy": 98.51,
-   "tenyear": 0.02,
-   "mmri": 118.36
+   "MMRIClose": 118.96
  },
  {
    "x": 0,
    "date": "2022-03-08",
+   "dxy": 99.08,
+   "tenyear": 0.02,
+   "mmri": 113.64,
    "DXYOpen": 99.24,
    "DXYHigh": 99.32,
    "DXYLow": 98.71,
@@ -5133,11 +4899,7 @@ const _posts = [
    "MMRIOpen": 109.29,
    "MMRIHigh": 115.79,
    "MMRILow": 115.79,
-   "MMRIClose": 113.7,
-   "y": 113.64,
-   "dxy": 99.08,
-   "tenyear": 0.02,
-   "mmri": 113.64
+   "MMRIClose": 113.7
  }
 ]
 export default class PostsStore {
@@ -5145,9 +4907,10 @@ export default class PostsStore {
     return _posts;
   }
   async latest(days: const) {
-   return _posts.filter(post => post.x > _posts.length-days-1);
+   return _posts.filter(post => post.x > _posts.length-days-1).reverse();
 }
   async find(x: const) {
     return _posts.find(post => post.x === x);
   }
 }
+
